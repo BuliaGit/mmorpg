@@ -1,0 +1,571 @@
+
+2022-11-15 08:48:18,517 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-15 08:48:18,558 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-15 08:48:19,062 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-15 08:48:19,068 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-15 08:48:19,068 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-15 08:48:19,068 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-15 08:48:19,522 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-15 08:48:19,532 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 08:48:19,532 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 08:48:19,532 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 08:48:19,532 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 08:48:19,532 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 08:48:19,542 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 08:48:20,532 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 08:48:21,534 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 08:48:21,644 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-15 08:49:07,349 [3] [WARN ] [GameServer] ：Client[127.0.0.1:53590]] Connected
+2022-11-15 08:49:07,543 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-15 08:49:09,747 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-15 08:49:09,850 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 08:49:09,851 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668473299.51292
+2022-11-15 08:49:09,896 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-15 08:49:09,897 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 08:49:09,897 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668473299.51292<1668473299.51292
+2022-11-15 08:49:21,900 [5] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 08:49:21,902 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-15 08:49:21,903 [5] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 08:49:21,903 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-15 08:49:21,903 [5] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 08:49:21,904 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-15 08:49:21,904 [5] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 08:49:21,904 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-15 08:49:21,905 [5] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 08:49:21,905 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-15 08:49:21,905 [5] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 08:49:21,905 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-15 08:49:21,905 [5] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 08:49:21,906 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-15 08:49:21,906 [5] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 08:49:21,906 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-15 08:50:18,153 [6] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:1:Archer1 Map:1
+2022-11-15 08:50:18,155 [6] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-15 08:50:18,209 [6] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-15 08:50:18,210 [6] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-15 08:50:18,211 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 08:50:18,212 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668473299.51292<1668473299.51292
+2022-11-15 08:50:18,214 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 08:50:18,214 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668473299.51292<1668473299.51292
+2022-11-15 08:50:19,887 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-15 08:50:19,888 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 08:50:19,889 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668473299.51292
+2022-11-15 08:50:19,889 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-15 08:50:19,889 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 08:50:19,890 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668473299.51292<1668473299.51292
+2022-11-15 08:50:53,552 [15] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-15 08:50:53,552 [15] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-15 08:50:53,562 [15] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-15 08:50:53,562 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-15 08:51:53,737 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-15 08:51:53,837 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-15 08:51:53,837 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-15 08:51:53,838 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 08:51:53,838 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 08:51:53,838 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 08:51:53,838 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 08:51:53,838 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 08:51:53,838 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 08:51:53,838 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 08:51:53,839 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 08:51:53,943 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-15 15:48:01,714 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-15 15:48:01,790 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-15 15:48:03,299 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-15 15:48:03,302 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-15 15:48:03,303 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-15 15:48:03,303 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-15 15:48:04,108 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-15 15:48:04,149 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:48:04,149 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:48:04,149 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:48:04,150 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:48:04,150 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:48:04,150 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:48:05,130 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:48:06,128 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:48:06,158 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-15 15:48:24,424 [3] [WARN ] [GameServer] ：Client[127.0.0.1:62353]] Connected
+2022-11-15 15:48:24,606 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-15 15:48:26,162 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-15 15:48:26,275 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 15:48:26,276 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668498484.10648
+2022-11-15 15:48:26,333 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-15 15:48:26,334 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 15:48:26,334 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668498484.10648<1668498484.10648
+2022-11-15 15:48:34,727 [6] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelLocal Message:sdafsda
+2022-11-15 15:48:34,727 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 15:48:34,728 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668498484.10648<1668498484.10648
+2022-11-15 15:48:39,317 [7] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelWorld Message:afdadsf
+2022-11-15 15:48:39,318 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 15:48:39,318 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668498484.10648<1668498484.10648
+2022-11-15 15:48:42,886 [6] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelWorld Message:adfa
+2022-11-15 15:48:42,886 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 15:48:42,886 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668498484.10648<1668498484.10648
+2022-11-15 15:48:45,365 [6] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelGuild Message:asdfsa
+2022-11-15 15:48:45,369 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 15:48:45,370 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668498484.10648<1668498484.10648
+2022-11-15 15:48:56,275 [15] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-15 15:50:16,022 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-15 15:50:16,076 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-15 15:50:16,549 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-15 15:50:16,552 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-15 15:50:16,552 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-15 15:50:16,553 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-15 15:50:17,172 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-15 15:50:17,242 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:50:17,243 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:50:17,243 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:50:17,246 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:50:17,251 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:50:17,286 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:50:18,185 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:50:19,185 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 15:50:19,214 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-15 15:50:32,449 [3] [WARN ] [GameServer] ：Client[127.0.0.1:62579]] Connected
+2022-11-15 15:50:32,621 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-15 15:50:34,195 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-15 15:50:34,301 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 15:50:34,301 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668498617.17193
+2022-11-15 15:50:34,361 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-15 15:50:34,361 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 15:50:34,362 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668498617.17193<1668498617.17193
+2022-11-15 15:50:38,181 [15] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-15 16:08:08,462 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-15 16:08:08,543 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-15 16:08:09,337 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-15 16:08:09,339 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-15 16:08:09,340 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-15 16:08:09,340 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-15 16:08:10,034 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-15 16:08:10,042 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 16:08:10,077 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 16:08:10,078 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 16:08:10,078 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 16:08:10,078 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 16:08:10,078 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 16:08:11,043 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 16:08:12,051 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-15 16:08:12,079 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-15 16:08:43,326 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64050]] Connected
+2022-11-15 16:08:43,526 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-15 16:08:45,171 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-15 16:08:45,285 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:08:45,286 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668499690.03318
+2022-11-15 16:08:45,336 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-15 16:08:45,337 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:08:45,337 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:08:52,226 [7] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelLocal Message:sdfsafsad
+2022-11-15 16:08:52,227 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:08:52,228 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:08:53,647 [8] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelLocal Message:fasdgsadg
+2022-11-15 16:08:53,647 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:08:53,647 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:08:54,823 [9] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelLocal Message:111
+2022-11-15 16:08:54,823 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:08:54,823 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:09:05,735 [6] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelWorld Message:345141
+2022-11-15 16:09:05,739 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:09:05,740 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:09:07,211 [8] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelWorld Message:dfdasfsda
+2022-11-15 16:09:07,211 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:09:07,211 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:09:12,284 [5] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 16:09:12,286 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-15 16:09:12,286 [5] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 16:09:12,286 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-15 16:09:12,286 [5] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 16:09:12,287 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-15 16:09:12,287 [5] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 16:09:12,287 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-15 16:09:12,288 [5] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 16:09:12,288 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-15 16:09:12,288 [5] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 16:09:12,288 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-15 16:09:12,288 [5] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 16:09:12,288 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-15 16:09:12,289 [5] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-15 16:09:12,289 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-15 16:09:15,323 [6] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelGuild Message:fsadfasdf
+2022-11-15 16:09:15,324 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:09:15,325 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:09:18,277 [7] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelPrivate Message:asfdasf
+2022-11-15 16:09:18,278 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:09:18,278 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:09:32,825 [14] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-15 16:09:32,827 [14] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-15 16:09:32,827 [14] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-15 16:09:32,828 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-15 16:15:09,327 [16] [WARN ] [GameServer] ：Client[127.0.0.1:64586]] Connected
+2022-11-15 16:15:09,389 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-15 16:15:10,665 [7] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-15 16:15:10,665 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:15:10,665 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668499690.03318
+2022-11-15 16:15:10,666 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-15 16:15:10,666 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:15:10,666 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:15:46,254 [23] [WARN ] [GameServer] ：Client[127.0.0.1:64648]] Connected
+2022-11-15 16:15:46,313 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-15 16:15:59,594 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Wizard222  Class:Wizard
+2022-11-15 16:15:59,726 [7] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1003:Wizard222 Map:1
+2022-11-15 16:15:59,726 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:15:59,727 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1003
+2022-11-15 16:15:59,727 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:15:59,727 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:15:59,728 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:01,428 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:01,428 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:01,593 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:01,593 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:01,759 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:01,760 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:01,944 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:01,944 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:02,109 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:02,110 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:02,292 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:02,292 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:02,477 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:02,477 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:02,660 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:02,661 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:02,792 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:02,793 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:02,826 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:02,826 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:02,942 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:02,942 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:03,010 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:03,010 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:03,125 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:03,126 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:03,309 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:03,310 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:03,495 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:03,496 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:03,643 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:03,643 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:03,675 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:03,676 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:03,825 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:03,826 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:03,993 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:03,993 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:04,144 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:04,145 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:04,210 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:04,210 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:04,326 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:04,326 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:04,476 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:04,476 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:04,510 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:04,511 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:04,659 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:04,659 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:04,693 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:04,695 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:04,826 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:04,827 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:04,859 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:04,859 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:05,009 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:05,010 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:05,193 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:05,193 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:05,376 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:05,376 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:05,544 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:05,544 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:05,727 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:05,727 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:05,761 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:05,761 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:19,244 [6] [INFO ] [GameServer] ：OnChat::character:1003:Channel:ChatChannelLocal Message:nihao
+2022-11-15 16:16:19,244 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:21,477 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:21,477 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:23,059 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:23,059 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:23,243 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:23,244 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:23,442 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:23,442 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:23,626 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:23,629 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:23,809 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:23,809 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:24,285 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:24,387 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:24,440 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:24,500 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:24,546 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:24,571 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:24,673 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:24,705 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:24,886 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:24,903 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:34,741 [6] [INFO ] [GameServer] ：OnChat::character:1003:Channel:ChatChannelWorld Message:shijie
+2022-11-15 16:16:34,743 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:16:36,426 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:36,427 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:36,592 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:36,593 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:16:36,708 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:16:36,708 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:17:14,560 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:17:14,561 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:17:19,248 [31] [INFO ] [GameServer] ：CharacterLeave： characterID:1003:Wizard222
+2022-11-15 16:17:19,249 [31] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1003
+2022-11-15 16:17:19,249 [31] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1003:Wizard222
+2022-11-15 16:17:19,250 [31] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:17:19,250 [31] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:17:19,250 [31] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1003:Wizard222 : Map:1 Character:1003:Wizard222
+2022-11-15 16:17:19,250 [31] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-15 16:17:23,113 [32] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-15 16:17:23,114 [32] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-15 16:17:23,114 [32] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-15 16:17:23,115 [32] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-15 16:19:47,774 [32] [WARN ] [GameServer] ：Client[127.0.0.1:64984]] Connected
+2022-11-15 16:19:47,838 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-15 16:19:49,599 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-15 16:19:49,599 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:19:49,599 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668499690.03318
+2022-11-15 16:19:49,600 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-15 16:19:49,600 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:19:49,601 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:02,569 [32] [WARN ] [GameServer] ：Client[127.0.0.1:65005]] Connected
+2022-11-15 16:20:02,621 [7] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-15 16:20:05,108 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1003:Wizard222 Map:1
+2022-11-15 16:20:05,109 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:20:05,109 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1003
+2022-11-15 16:20:05,109 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:05,109 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:05,110 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:20:06,726 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:06,726 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:06,893 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:06,894 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:07,075 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:07,076 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:07,261 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:07,261 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:07,426 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:07,427 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:07,477 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:07,478 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:07,592 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:07,593 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:07,661 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:07,661 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:07,775 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:07,776 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:07,846 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:07,846 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:07,941 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:07,942 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:08,009 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:08,010 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:08,125 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:08,126 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:08,192 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:08,192 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:08,308 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:08,309 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:08,375 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:08,376 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:08,508 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:08,508 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:08,558 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:08,559 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:08,708 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:08,709 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:08,876 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:08,876 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:09,042 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:09,042 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:09,076 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:09,077 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:09,207 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:09,208 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:09,245 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:09,245 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:09,277 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:09,278 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:09,794 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:09,794 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:09,941 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:09,941 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:10,091 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:10,092 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:10,258 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:10,258 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:10,408 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:10,409 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:10,442 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:10,443 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:18,075 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:18,076 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:18,226 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:18,227 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:18,260 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:18,260 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:18,391 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:18,391 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:18,425 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:18,426 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:18,575 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:18,575 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:18,608 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:18,608 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:18,758 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:18,758 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:18,942 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:18,942 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:19,109 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:19,109 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:19,291 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:19,292 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:19,476 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:19,477 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:19,658 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:19,658 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:19,758 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:19,759 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:19,841 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:19,841 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:19,942 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:19,942 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:20,009 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:20,009 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:20,041 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:20,042 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:20,124 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:20,125 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:20,292 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:20,292 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:20,458 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:20,459 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:20,626 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:20,626 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:20,809 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:20,809 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:20,977 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:20,977 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:21,141 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:21,141 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:21,310 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:21,311 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:21,492 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:21,493 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:21,657 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:21,658 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:21,691 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:21,692 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:21,841 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:21,842 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:21,909 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:21,910 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:31,986 [6] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelPrivate Message:hello
+2022-11-15 16:20:31,987 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:20:31,987 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:31,988 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:41,822 [6] [INFO ] [GameServer] ：OnFriendAddRequest:: fromId:1fromNameArcher1 ToID:1003 ToName:Wizard222
+2022-11-15 16:20:41,823 [6] [INFO ] [GameServer] ：ForwardResqust:: FromId1 FromName:Archer1 ToId:1003ToName:Wizard222
+2022-11-15 16:20:41,823 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:20:43,812 [6] [INFO ] [GameServer] ：OnFriendAddResponse:: charactor:1003 Result:Success fromId:1 ToID:1003
+2022-11-15 16:20:44,067 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:44,067 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:Archer1
+2022-11-15 16:20:44,068 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;1
+2022-11-15 16:20:44,069 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:44,072 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:20:44,073 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1003:Wizard222
+2022-11-15 16:20:44,073 [6] [INFO ] [GameServer] ：  1003:Wizard222 GetFriendInfo;1;Archer1 Status;1
+2022-11-15 16:20:53,125 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:53,126 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:Archer1
+2022-11-15 16:20:53,126 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;1
+2022-11-15 16:20:53,126 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:53,210 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:53,210 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:53,392 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:53,392 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:53,425 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:53,427 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:53,908 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:53,909 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:55,275 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:55,276 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:57,425 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:57,425 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:57,725 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:57,726 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:57,810 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:57,810 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:57,893 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:57,894 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:58,057 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:58,058 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:58,108 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:58,108 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:58,191 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:58,198 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:58,291 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:58,292 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:58,324 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:58,324 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:58,358 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:58,359 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:58,609 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:58,610 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:58,724 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:58,725 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:59,659 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:59,659 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:59,743 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:59,744 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:59,779 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:59,781 [12] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:59,811 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:59,811 [13] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:59,928 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:59,929 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:20:59,975 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:20:59,975 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:21:00,107 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:21:00,108 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:21:00,142 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:21:00,144 [9] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:21:00,291 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:21:00,292 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:21:00,391 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:21:00,392 [11] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:21:04,972 [12] [INFO ] [GameServer] ：OnTeamInviteRequest::FromId:1 FromName:Archer1 ToID:1003 ToName:Wizard222
+2022-11-15 16:21:04,978 [12] [INFO ] [GameServer] ：ForwardTeamInviteRequest::FromId:1 FromName:Archer1 ToID:1003 ToName:Wizard222
+2022-11-15 16:21:04,979 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1003:Wizard222
+2022-11-15 16:21:04,979 [12] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1003:Wizard222
+2022-11-15 16:21:04,980 [12] [INFO ] [GameServer] ：  1003:Wizard222 GetFriendInfo;1;Archer1 Status;1
+2022-11-15 16:21:10,976 [43] [INFO ] [GameServer] ：CharacterLeave： characterID:1003:Wizard222
+2022-11-15 16:21:10,976 [43] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1003
+2022-11-15 16:21:10,977 [43] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1003:Wizard222
+2022-11-15 16:21:10,977 [43] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-15 16:21:10,977 [43] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:Archer1
+2022-11-15 16:21:10,977 [43] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-15 16:21:10,978 [43] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668499690.03318<1668499690.03318
+2022-11-15 16:21:10,979 [43] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1003:Wizard222 : Map:1 Character:1003:Wizard222
+2022-11-15 16:21:10,981 [43] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-15 16:21:39,347 [46] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-15 16:21:39,348 [46] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-15 16:21:39,348 [46] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-15 16:21:39,349 [46] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-15 16:21:46,479 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-15 16:21:46,562 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-15 16:21:46,562 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-15 16:21:46,562 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 16:21:46,562 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 16:21:46,562 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 16:21:46,562 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 16:21:46,562 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 16:21:46,562 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 16:21:46,565 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 16:21:46,565 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-15 16:21:46,668 [1] [INFO ] [GameServer] ：Game Server Exited

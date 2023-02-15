@@ -1,0 +1,645 @@
+
+2022-10-17 16:04:22,708 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 16:04:22,747 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 16:04:23,061 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 16:04:23,064 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 16:04:23,064 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 16:04:23,065 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 16:04:23,066 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 16:04:23,068 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 16:04:23,075 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:04:23,076 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:04:23,076 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:04:23,076 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:04:23,076 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:04:23,076 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:04:24,077 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:04:25,086 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:04:25,130 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 16:05:12,185 [3] [WARN ] [GameServer] ：Client[127.0.0.1:57584]] Connected
+2022-10-17 16:05:12,344 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:1814897773@qq.com  Pass:qwerwasd123
+2022-10-17 16:05:25,362 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:05:25,372 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-17 16:05:25,373 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:05:25,374 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-17 16:05:25,374 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:05:25,374 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-17 16:05:25,375 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:05:25,375 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-17 16:05:25,376 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:05:25,377 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-17 16:05:25,379 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:05:25,380 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-17 16:05:25,380 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:05:25,382 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-17 16:05:25,382 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:05:25,383 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-17 16:05:27,937 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: SQL Network Interfaces, error: 26 - 定位指定的服务器/实例时出错)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\ExtremeWorld\mmorpgwork\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 16:43:05,954 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 16:43:05,988 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 16:43:06,247 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 16:43:06,249 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 16:43:06,250 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 16:43:06,250 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 16:43:06,250 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 16:43:06,252 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 16:43:06,302 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:43:06,302 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:43:06,302 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:43:06,302 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:43:06,303 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:43:06,304 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:43:07,263 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:43:08,340 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:43:08,359 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 16:43:35,771 [3] [WARN ] [GameServer] ：Client[127.0.0.1:59958]] Connected
+2022-10-17 16:43:35,930 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:banban  Pass:123
+2022-10-17 16:43:51,280 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: SQL Network Interfaces, error: 26 - 定位指定的服务器/实例时出错)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\ExtremeWorld\mmorpgwork\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 16:44:08,548 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:44:08,554 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-17 16:44:08,554 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:44:08,555 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-17 16:44:08,556 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:44:08,557 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-17 16:44:08,558 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:44:08,559 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-17 16:44:08,559 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:44:08,560 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-17 16:44:08,561 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:44:08,561 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-17 16:44:08,564 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:44:08,565 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-17 16:44:08,566 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:44:08,566 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-17 16:44:36,560 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-17 16:44:36,569 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-17 16:44:36,570 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-17 16:44:36,570 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 16:44:36,570 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 16:44:36,570 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 16:44:36,570 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 16:44:36,570 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 16:44:36,570 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 16:44:36,570 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 16:44:36,572 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 16:44:36,676 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-17 16:50:27,622 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 16:50:27,656 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 16:50:27,933 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 16:50:27,935 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 16:50:27,936 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 16:50:27,936 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 16:50:27,936 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 16:50:27,938 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 16:50:27,967 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:50:27,967 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:50:27,968 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:50:27,968 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:50:27,968 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:50:27,970 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:50:28,960 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:50:29,946 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:50:30,022 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 16:50:45,648 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60692]] Connected
+2022-10-17 16:50:45,803 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:banban  Pass:123
+2022-10-17 16:51:01,157 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: SQL Network Interfaces, error: 26 - 定位指定的服务器/实例时出错)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 16:51:30,134 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:51:39,112 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-17 16:51:39,112 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:51:39,116 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-17 16:51:39,118 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:51:39,120 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-17 16:51:39,120 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:51:39,125 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-17 16:51:39,128 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:51:39,130 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-17 16:51:39,131 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:51:39,133 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-17 16:51:39,133 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:51:39,134 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-17 16:51:39,135 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 16:51:39,135 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-17 16:54:05,563 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 16:54:05,599 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 16:54:05,858 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 16:54:05,860 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 16:54:05,860 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 16:54:05,861 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 16:54:05,861 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 16:54:05,863 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 16:54:05,882 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:54:05,882 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:54:05,909 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:54:05,910 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:54:05,910 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:54:05,910 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:54:06,873 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:54:07,874 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 16:54:07,937 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 16:54:22,352 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60891]] Connected
+2022-10-17 16:54:22,508 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:banban  Pass:123
+2022-10-17 16:54:37,828 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: SQL Network Interfaces, error: 26 - 定位指定的服务器/实例时出错)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 17:29:16,628 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 17:29:16,665 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 17:29:16,969 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 17:29:16,991 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 17:29:16,994 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 17:29:16,995 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 17:29:16,995 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 17:29:16,998 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 17:29:17,149 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 17:29:17,150 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 17:29:17,150 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 17:29:17,153 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 17:29:17,154 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 17:29:17,154 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 17:29:18,018 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 17:29:19,005 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 17:29:19,113 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 17:29:35,145 [3] [WARN ] [GameServer] ：Client[127.0.0.1:62822]] Connected
+2022-10-17 17:29:35,306 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:banban  Pass:123
+2022-10-17 17:29:50,659 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: SQL Network Interfaces, error: 26 - 定位指定的服务器/实例时出错)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 19:24:30,565 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 19:24:30,606 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 19:24:31,008 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 19:24:31,016 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 19:24:31,017 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 19:24:31,018 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 19:24:31,018 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 19:24:31,023 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 19:24:31,088 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:24:31,088 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:24:31,088 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:24:31,089 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:24:31,105 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:24:31,105 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:24:32,037 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:24:33,034 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:24:33,108 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 19:24:50,866 [3] [WARN ] [GameServer] ：Client[127.0.0.1:52496]] Connected
+2022-10-17 19:24:51,023 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:banban  Pass:123
+2022-10-17 19:25:16,257 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-17 19:25:19,208 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-17 19:25:19,282 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-17 19:25:19,282 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-17 19:25:19,284 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:25:19,284 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:25:19,284 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:25:19,284 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:25:19,284 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:25:19,284 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:25:19,285 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:25:19,285 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:25:19,392 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-17 19:25:29,321 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 19:25:29,357 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 19:25:29,675 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 19:25:29,677 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 19:25:29,678 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 19:25:29,678 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 19:25:29,678 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 19:25:29,680 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 19:25:29,715 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:25:29,798 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:25:29,798 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:25:29,805 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:25:29,812 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:25:29,849 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:25:30,693 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:25:31,685 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:25:31,761 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 19:25:44,118 [3] [WARN ] [GameServer] ：Client[127.0.0.1:52551]] Connected
+2022-10-17 19:25:44,280 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:banban  Pass:123
+2022-10-17 19:25:44,665 [5] [ERROR] [GameServer] ：Message handler exception:, 从具体化“System.Int64”类型到“System.Int32”类型的指定强制转换无效。, EntityFramework,    在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   在 lambda_method(Closure , Shaper )
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 19:26:31,967 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:26:31,971 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-17 19:26:31,971 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:26:31,975 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-17 19:26:31,976 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:26:31,977 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-17 19:26:31,979 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:26:31,981 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-17 19:26:31,981 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:26:31,984 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-17 19:26:31,984 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:26:31,986 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-17 19:26:31,987 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:26:31,988 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-17 19:26:31,990 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:26:31,991 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-17 19:26:47,905 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:user1  Pass:123
+2022-10-17 19:27:02,215 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:user1  Pass:123
+2022-10-17 19:27:02,233 [5] [ERROR] [GameServer] ：Message handler exception:, 从具体化“System.Int64”类型到“System.Int32”类型的指定强制转换无效。, EntityFramework,    在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   在 lambda_method(Closure , Shaper )
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 19:28:04,756 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-17 19:28:12,993 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-17 19:28:13,067 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-17 19:28:13,068 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-17 19:28:13,068 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:28:13,068 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:28:13,068 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:28:13,068 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:28:13,068 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:28:13,069 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:28:13,070 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:28:13,070 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 19:28:13,175 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-17 19:54:50,498 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 19:54:50,531 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 19:54:50,825 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 19:54:50,839 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 19:54:50,847 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 19:54:50,849 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 19:54:50,855 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 19:54:50,863 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 19:54:50,902 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:54:50,903 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:54:50,904 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:54:50,911 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:54:50,918 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:54:50,919 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:54:51,907 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:54:52,900 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 19:54:52,929 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 19:55:07,675 [3] [WARN ] [GameServer] ：Client[127.0.0.1:54492]] Connected
+2022-10-17 19:55:07,831 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:banban  Pass:123
+2022-10-17 19:55:08,209 [5] [ERROR] [GameServer] ：Message handler exception:, 从具体化“System.Int64”类型到“System.Int32”类型的指定强制转换无效。, EntityFramework,    在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   在 lambda_method(Closure , Shaper )
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 19:55:25,032 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:banban  Pass:234
+2022-10-17 19:55:25,051 [5] [ERROR] [GameServer] ：Message handler exception:, 从具体化“System.Int64”类型到“System.Int32”类型的指定强制转换无效。, EntityFramework,    在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   在 lambda_method(Closure , Shaper )
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 19:55:32,361 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:user2  Pass:234
+2022-10-17 19:55:37,055 [6] [INFO ] [GameServer] ：UserRegisterRequest: User:user2  Pass:234
+2022-10-17 19:55:37,076 [6] [ERROR] [GameServer] ：Message handler exception:, 从具体化“System.Int64”类型到“System.Int32”类型的指定强制转换无效。, EntityFramework,    在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   在 lambda_method(Closure , Shaper )
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 19:55:53,110 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:55:53,115 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-17 19:55:53,116 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:55:53,117 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-17 19:55:53,118 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:55:53,118 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-17 19:55:53,119 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:55:53,120 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-17 19:55:53,120 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:55:53,121 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-17 19:55:53,121 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:55:53,122 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-17 19:55:53,123 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:55:53,126 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-17 19:55:53,126 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 19:55:53,127 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-17 20:19:03,634 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:user123  Pass:234
+2022-10-17 20:19:06,524 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:user123  Pass:234
+2022-10-17 20:19:06,543 [5] [ERROR] [GameServer] ：Message handler exception:, 从具体化“System.Int64”类型到“System.Int32”类型的指定强制转换无效。, EntityFramework,    在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   在 lambda_method(Closure , Shaper )
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnRegister(NetConnection`1 sender, UserRegisterRequest request) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 38
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\MyProgram\UnityProjectGit\mmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 120
+2022-10-17 20:31:54,725 [54] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-17 20:31:59,056 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-17 20:31:59,142 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-17 20:31:59,144 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-17 20:31:59,146 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:31:59,146 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:31:59,146 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:31:59,146 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:31:59,146 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:31:59,146 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:31:59,147 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:31:59,148 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:31:59,253 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-17 20:48:48,786 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 20:48:48,823 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 20:48:49,073 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 20:48:49,075 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 20:48:49,075 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 20:48:49,075 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 20:48:49,076 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 20:48:49,077 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 20:48:49,124 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 20:48:49,124 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 20:48:49,124 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 20:48:49,124 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 20:48:49,124 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 20:48:49,125 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 20:48:50,091 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 20:48:51,226 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 20:48:51,337 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 20:49:13,086 [3] [WARN ] [GameServer] ：Client[127.0.0.1:58468]] Connected
+2022-10-17 20:49:13,240 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:user1  Pass:111
+2022-10-17 20:49:30,879 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:user1  Pass:222
+2022-10-17 20:49:51,537 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 20:49:51,541 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-17 20:49:51,542 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 20:49:51,542 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-17 20:49:51,543 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 20:49:51,543 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-17 20:49:51,543 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 20:49:51,544 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-17 20:49:51,544 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 20:49:51,545 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-17 20:49:51,546 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 20:49:51,546 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-17 20:49:51,548 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 20:49:51,549 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-17 20:49:51,549 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 20:49:51,550 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-17 20:50:08,024 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-17 20:50:10,644 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-17 20:50:10,721 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-17 20:50:10,721 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-17 20:50:10,721 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:50:10,721 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:50:10,722 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:50:10,721 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:50:10,722 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:50:10,721 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:50:10,723 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:50:10,723 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 20:50:10,829 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-17 21:17:22,934 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 21:17:22,972 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 21:17:23,257 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 21:17:23,269 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 21:17:23,285 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 21:17:23,292 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 21:17:23,297 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 21:17:23,307 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 21:17:23,342 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:17:23,342 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:17:23,342 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:17:23,342 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:17:23,347 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:17:23,350 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:17:24,330 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:17:25,327 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:17:25,389 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 21:17:28,992 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-17 21:17:29,021 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-17 21:17:29,022 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-17 21:17:29,023 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:17:29,023 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:17:29,023 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:17:29,023 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:17:29,023 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:17:29,024 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:17:29,024 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:17:29,024 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:17:29,131 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-17 21:27:24,686 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 21:27:24,727 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 21:27:25,081 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 21:27:25,117 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 21:27:25,151 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 21:27:25,151 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 21:27:25,156 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 21:27:25,176 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 21:27:25,279 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:27:25,279 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:27:25,279 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:27:25,279 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:27:25,281 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:27:25,281 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:27:26,197 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:27:27,201 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:27:27,263 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 21:28:01,530 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60881]] Connected
+2022-10-17 21:28:01,689 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user  Pass:123
+2022-10-17 21:28:27,426 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 21:28:27,430 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-17 21:28:27,430 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 21:28:27,431 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-17 21:28:27,431 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 21:28:27,431 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-17 21:28:27,432 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 21:28:27,432 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-17 21:28:27,433 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 21:28:27,435 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-17 21:28:27,436 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 21:28:27,437 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-17 21:28:27,438 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 21:28:27,438 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-17 21:28:27,439 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-17 21:28:27,440 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-17 21:28:37,957 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user  Pass:123
+2022-10-17 21:28:47,214 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user  Pass:123
+2022-10-17 21:29:05,555 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-17 21:29:27,925 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-17 21:29:32,890 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-17 21:29:32,956 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-17 21:29:32,957 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-17 21:29:32,957 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:29:32,957 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:29:32,957 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:29:32,957 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:29:32,957 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:29:32,957 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:29:32,957 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:29:32,960 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:29:33,064 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-17 21:36:54,033 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-17 21:36:54,071 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-17 21:36:54,399 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-17 21:36:54,401 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-17 21:36:54,401 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-17 21:36:54,401 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-17 21:36:54,402 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-17 21:36:54,405 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-17 21:36:54,427 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:36:54,452 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:36:54,563 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:36:54,570 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:36:54,571 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:36:54,571 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:36:55,423 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:36:56,419 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-17 21:36:56,527 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-17 21:37:11,307 [3] [WARN ] [GameServer] ：Client[127.0.0.1:61380]] Connected
+2022-10-17 21:37:11,471 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user  Pass:111
+2022-10-17 21:37:23,005 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-17 21:37:28,151 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-17 21:37:33,047 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-17 21:37:33,147 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-17 21:37:33,147 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-17 21:37:33,148 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:37:33,148 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:37:33,148 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:37:33,148 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:37:33,148 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:37:33,148 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:37:33,149 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:37:33,149 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-17 21:37:33,255 [1] [INFO ] [GameServer] ：Game Server Exited

@@ -1,0 +1,29 @@
+
+2022-11-11 11:08:39,277 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-11 11:08:39,324 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-11 11:08:39,902 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-11 11:08:39,902 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-11 11:08:39,902 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-11 11:08:39,902 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-11 11:08:39,907 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-11 11:08:39,943 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-11 11:08:39,943 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-11 11:08:39,943 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-11 11:08:39,943 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-11 11:08:39,943 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-11 11:08:39,943 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-11 11:08:40,924 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-11 11:08:41,912 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-11 11:08:42,015 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-11 11:08:45,713 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-11 11:08:45,738 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-11 11:08:45,742 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-11 11:08:45,743 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-11 11:08:45,743 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-11 11:08:45,743 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-11 11:08:45,743 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-11 11:08:45,743 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-11 11:08:45,743 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-11 11:08:45,743 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-11 11:08:45,743 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-11 11:08:45,850 [1] [INFO ] [GameServer] ：Game Server Exited

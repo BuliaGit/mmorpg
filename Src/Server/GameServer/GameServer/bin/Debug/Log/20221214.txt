@@ -1,0 +1,550 @@
+
+2022-12-14 21:52:56,847 [1] [INFO ] [GameServer] £ºGame Server Init
+2022-12-14 21:52:56,896 [1] [INFO ] [GameServer] £ºDataManager > DataManager()
+2022-12-14 21:52:57,396 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:1:²¼ÁÖÕò
+2022-12-14 21:52:57,405 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:2:ÂäÈÕÉ­ÁÖ
+2022-12-14 21:52:57,405 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:3:Ò°Íâ2
+2022-12-14 21:52:57,405 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:4:ÂäÈÕ¿Õ¼ä
+2022-12-14 21:52:59,086 [1] [WARN ] [GameServer] £ºStarting Listener...
+2022-12-14 21:52:59,156 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-14 21:52:59,156 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-14 21:52:59,156 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-14 21:52:59,156 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-14 21:52:59,156 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-14 21:52:59,156 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-14 21:53:00,129 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-14 21:53:01,321 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-14 21:53:01,441 [1] [WARN ] [GameServer] £ºNetService Started
+2022-12-14 21:53:13,085 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:54190]] Connected
+2022-12-14 21:53:13,263 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:user1  Pass:11
+2022-12-14 21:53:15,840 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:user1  Pass:111
+2022-12-14 21:53:19,850 [7] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:Acher1 Map:1
+2022-12-14 21:53:19,969 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:53:19,984 [7] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2022-12-14 21:53:19,984 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:53:53,209 [12] [INFO ] [GameServer] £ºOnMapTeleport: characterID:1:System.Data.Entity.DynamicProxies.TCharacter_7E56C06723E4687201917DE2E4E83B60CD65DBE580952F84B7219EEB2CB4EE95 TeleporterId:1
+2022-12-14 21:53:53,209 [12] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:1
+2022-12-14 21:53:53,210 [12] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 1:Acher1 : Map:1 Character:1:Acher1
+2022-12-14 21:53:53,211 [12] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:53:53,211 [12] [INFO ] [GameServer] £ºCharacterEnter: Map:2 characterId:1
+2022-12-14 21:53:53,211 [12] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:01,579 [5] [INFO ] [GameServer] £ºMap[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-14 21:54:01,581 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:2 monsterId:2
+2022-12-14 21:54:01,582 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:01,582 [5] [INFO ] [GameServer] £ºMap[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-14 21:54:01,583 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:2 monsterId:3
+2022-12-14 21:54:01,583 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:01,584 [5] [INFO ] [GameServer] £ºMap[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-14 21:54:01,584 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:2 monsterId:4
+2022-12-14 21:54:01,584 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:01,584 [5] [INFO ] [GameServer] £ºMap[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-14 21:54:01,585 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:2 monsterId:5
+2022-12-14 21:54:01,585 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:01,585 [5] [INFO ] [GameServer] £ºMap[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-14 21:54:01,585 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:3 monsterId:6
+2022-12-14 21:54:01,585 [5] [INFO ] [GameServer] £ºMap[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-14 21:54:01,585 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:3 monsterId:7
+2022-12-14 21:54:01,586 [5] [INFO ] [GameServer] £ºMap[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-14 21:54:01,586 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:3 monsterId:8
+2022-12-14 21:54:01,586 [5] [INFO ] [GameServer] £ºMap[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-14 21:54:01,586 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:3 monsterId:9
+2022-12-14 21:54:26,443 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:54:26,444 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:1,target:4,pos:(0,0,0)
+2022-12-14 21:54:26,467 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:54:26,468 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:27,239 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:54:27,240 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:54:27,240 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:554 Time:0.6925
+2022-12-14 21:54:27,242 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:27,900 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:27,902 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:54:27,902 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:31,263 [9] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:54:31,264 [9] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:1,target:4,pos:(0,0,0)
+2022-12-14 21:54:31,278 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:54:31,278 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:32,042 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:54:32,043 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:54:32,043 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:824 Time:1.03
+2022-12-14 21:54:32,044 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:33,025 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:33,025 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:54:33,027 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:37,440 [12] [INFO ] [GameServer] £ºOnSkillCast: skill:302 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:54:37,441 [12] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:302,caster:1,target:4,pos:(0,0,0)
+2022-12-14 21:54:37,496 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].Cast Result:[Ok] Status:Casting
+2022-12-14 21:54:37,496 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:38,036 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateCasting Finish
+2022-12-14 21:54:38,362 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[0]
+2022-12-14 21:54:38,362 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:54:38,362 [5] [INFO ] [GameServer] £ºBullet[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:956 Time:1.195
+2022-12-14 21:54:38,363 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:39,451 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].HitTarget[Ð¡¶ñÄ§] Damage:2 Crit:False
+2022-12-14 21:54:39,453 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].UpdateSkill Finish
+2022-12-14 21:54:39,454 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:40,432 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:40,433 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:41,408 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:41,408 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:42,391 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:42,391 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:43,369 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:43,369 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:44,354 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:44,355 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:48,724 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:303 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:54:48,724 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:303,caster:1,target:4,pos:(4727,2827,5)
+2022-12-14 21:54:48,817 [5] [INFO ] [GameServer] £ºSKill[¶¾¼ýÓê].Cast Result:[Ok] Status:Casting
+2022-12-14 21:54:48,818 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:50,123 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].UpdateCasting Finish
+2022-12-14 21:54:50,993 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].DoHit[0]
+2022-12-14 21:54:50,996 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].HitTarget[Ð¡¶ñÄ§] Damage:2 Crit:False
+2022-12-14 21:54:50,996 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:51,101 [5] [INFO ] [GameServer] £ºSKill[¶¾¼ýÓê].UpdateSkill Finish
+2022-12-14 21:54:51,971 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:51,971 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:52,954 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:52,954 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:53,934 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:53,934 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:54,443 [7] [INFO ] [GameServer] £ºOnSkillCast: skill:304 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:54:54,443 [7] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:304,caster:1,target:4,pos:(4727,2827,5)
+2022-12-14 21:54:54,479 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].Cast Result:[Ok] Status:Casting
+2022-12-14 21:54:54,480 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:54,914 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:54,914 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:55,024 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].UpdateCasting Finish
+2022-12-14 21:54:55,680 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[0]
+2022-12-14 21:54:55,680 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:54:55,680 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:492 Time:0.615
+2022-12-14 21:54:55,681 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:55,898 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:55,899 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:56,222 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:56,222 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:56,333 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[1]
+2022-12-14 21:54:56,333 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:54:56,334 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:492 Time:0.615
+2022-12-14 21:54:56,334 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:56,878 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:56,878 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:57,098 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[2]
+2022-12-14 21:54:57,098 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:54:57,099 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:492 Time:0.615
+2022-12-14 21:54:57,099 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:54:57,642 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:54:57,642 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].UpdateSkill Finish
+2022-12-14 21:54:57,643 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:06,292 [12] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:55:06,292 [12] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:1,target:4,pos:(4727,2827,5)
+2022-12-14 21:55:06,357 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:55:06,357 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:07,116 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:55:07,116 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:55:07,117 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:794 Time:0.9925
+2022-12-14 21:55:07,117 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:08,099 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:55:08,100 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:55:08,100 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:12,091 [13] [INFO ] [GameServer] £ºOnSkillCast: skill:302 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:55:12,091 [13] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:302,caster:1,target:4,pos:(4727,2827,5)
+2022-12-14 21:55:12,131 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].Cast Result:[Ok] Status:Casting
+2022-12-14 21:55:12,132 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:12,676 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateCasting Finish
+2022-12-14 21:55:13,004 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[0]
+2022-12-14 21:55:13,004 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:55:13,005 [5] [INFO ] [GameServer] £ºBullet[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:794 Time:0.9925
+2022-12-14 21:55:13,005 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:13,980 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:55:13,981 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].UpdateSkill Finish
+2022-12-14 21:55:13,981 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:14,964 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:55:14,964 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:15,939 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:55:15,939 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:16,921 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:55:16,921 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:17,908 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:55:17,908 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:18,895 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:55:18,895 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:19,818 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:55:19,819 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:1,target:4,pos:(4727,2827,5)
+2022-12-14 21:55:19,876 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:55:19,876 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:20,639 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:55:20,639 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:55:20,639 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:794 Time:0.9925
+2022-12-14 21:55:20,640 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:21,616 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:55:21,616 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:55:21,616 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:56,637 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:55:56,637 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:1,target:4,pos:(4727,2827,5)
+2022-12-14 21:55:56,719 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:55:56,719 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:57,486 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:55:57,486 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:55:57,487 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:794 Time:0.9925
+2022-12-14 21:55:57,487 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:55:58,468 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:55:58,468 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:55:58,469 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:56:01,151 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:56:01,152 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:1,target:4,pos:(4727,2827,5)
+2022-12-14 21:56:01,188 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:56:01,190 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:56:01,952 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:56:01,952 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:56:01,953 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:794 Time:0.9925
+2022-12-14 21:56:01,953 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:56:02,935 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:56:02,935 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:56:02,936 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:56:06,077 [7] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:1 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 21:56:06,081 [7] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:1,target:4,pos:(4727,2827,5)
+2022-12-14 21:56:06,093 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:56:06,093 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:56:06,864 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:56:06,864 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:56:06,864 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:794 Time:0.9925
+2022-12-14 21:56:06,865 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:56:07,845 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 21:56:07,845 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:56:07,846 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:56:29,045 [21] [INFO ] [GameServer] £ºCharacterLeave£º characterID:1:Acher1
+2022-12-14 21:56:29,045 [21] [INFO ] [GameServer] £ºCharacterLeave: Map:2 characterId:1
+2022-12-14 21:56:29,045 [21] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 1:Acher1 : Map:2 Character:1:Acher1
+2022-12-14 21:56:29,045 [21] [WARN ] [GameServer] £ºClient[] Disconnected
+2022-12-14 21:57:19,230 [24] [WARN ] [GameServer] £ºClient[127.0.0.1:54672]] Connected
+2022-12-14 21:57:19,296 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:user1  Pass:111
+2022-12-14 21:57:20,969 [6] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:Acher1 Map:1
+2022-12-14 21:57:20,969 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:57:20,970 [6] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2022-12-14 21:57:20,970 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:57:33,043 [10] [INFO ] [GameServer] £ºOnMapTeleport: characterID:1:System.Data.Entity.DynamicProxies.TCharacter_7E56C06723E4687201917DE2E4E83B60CD65DBE580952F84B7219EEB2CB4EE95 TeleporterId:1
+2022-12-14 21:57:33,043 [10] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:1
+2022-12-14 21:57:33,043 [10] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 1:Acher1 : Map:1 Character:1:Acher1
+2022-12-14 21:57:33,044 [10] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:57:33,044 [10] [INFO ] [GameServer] £ºCharacterEnter: Map:2 characterId:1
+2022-12-14 21:57:33,044 [10] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:57:56,027 [7] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:57:56,028 [7] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:10,target:3,pos:(0,0,0)
+2022-12-14 21:57:56,091 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:57:56,091 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:57:56,858 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:57:56,858 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:57:56,859 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:822 Time:1.0275
+2022-12-14 21:57:56,859 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:57:57,835 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:57:57,835 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:57:57,835 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:05,523 [13] [INFO ] [GameServer] £ºOnSkillCast: skill:302 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:58:05,525 [13] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:302,caster:10,target:3,pos:(0,0,0)
+2022-12-14 21:58:05,576 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].Cast Result:[Ok] Status:Casting
+2022-12-14 21:58:05,576 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:06,117 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateCasting Finish
+2022-12-14 21:58:06,446 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[0]
+2022-12-14 21:58:06,446 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:58:06,447 [5] [INFO ] [GameServer] £ºBullet[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:581 Time:0.72625
+2022-12-14 21:58:06,447 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:07,098 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:07,098 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].UpdateSkill Finish
+2022-12-14 21:58:07,098 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:08,082 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:08,082 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:09,059 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:09,059 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:10,040 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:10,040 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:11,024 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:11,024 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:12,007 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:12,007 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:18,573 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:303 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:58:18,573 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:303,caster:10,target:3,pos:(5521,1712,0)
+2022-12-14 21:58:18,653 [5] [INFO ] [GameServer] £ºSKill[¶¾¼ýÓê].Cast Result:[Ok] Status:Casting
+2022-12-14 21:58:18,653 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:19,856 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].UpdateCasting Finish
+2022-12-14 21:58:20,730 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].DoHit[0]
+2022-12-14 21:58:20,730 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].HitTarget[¶ñ¹í] Damage:2 Crit:False
+2022-12-14 21:58:20,730 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:20,731 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:20,838 [5] [INFO ] [GameServer] £ºSKill[¶¾¼ýÓê].UpdateSkill Finish
+2022-12-14 21:58:21,710 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:21,710 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:22,690 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:22,691 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:23,674 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:23,674 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:24,657 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:24,657 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:25,639 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:25,639 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:26,760 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:304 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:58:26,761 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:304,caster:10,target:3,pos:(5521,1712,0)
+2022-12-14 21:58:26,831 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].Cast Result:[Ok] Status:Casting
+2022-12-14 21:58:26,831 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:27,377 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].UpdateCasting Finish
+2022-12-14 21:58:28,028 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[0]
+2022-12-14 21:58:28,028 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:58:28,028 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:58:28,028 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:28,684 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[1]
+2022-12-14 21:58:28,685 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:58:28,685 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:58:28,686 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:28,902 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:28,902 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:29,448 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[2]
+2022-12-14 21:58:29,449 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:58:29,449 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:58:29,449 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:29,557 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:29,557 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:30,320 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:30,320 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].UpdateSkill Finish
+2022-12-14 21:58:30,320 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:32,862 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:58:32,863 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:10,target:3,pos:(5521,1712,0)
+2022-12-14 21:58:32,935 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:58:32,935 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:33,694 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:58:33,694 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:58:33,695 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:58:33,695 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:34,563 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:34,563 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:58:34,565 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:37,692 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:58:37,693 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:10,target:3,pos:(5521,1712,0)
+2022-12-14 21:58:37,725 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:58:37,725 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:38,488 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:58:38,488 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:58:38,488 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:58:38,489 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:39,366 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:39,366 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:58:39,366 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:40,713 [7] [INFO ] [GameServer] £ºOnSkillCast: skill:302 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:58:40,714 [7] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:302,caster:10,target:3,pos:(5521,1712,0)
+2022-12-14 21:58:40,783 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].Cast Result:[Ok] Status:Casting
+2022-12-14 21:58:40,783 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:41,329 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateCasting Finish
+2022-12-14 21:58:41,654 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[0]
+2022-12-14 21:58:41,654 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:58:41,654 [5] [INFO ] [GameServer] £ºBullet[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:58:41,655 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:42,528 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:42,528 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].UpdateSkill Finish
+2022-12-14 21:58:42,528 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:43,504 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:43,505 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:44,483 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:44,483 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:45,462 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:45,462 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:46,445 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:46,445 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:47,430 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:47,430 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:49,906 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:303 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:58:49,907 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:303,caster:10,target:3,pos:(5553,1802,0)
+2022-12-14 21:58:49,935 [5] [INFO ] [GameServer] £ºSKill[¶¾¼ýÓê].Cast Result:[Ok] Status:Casting
+2022-12-14 21:58:49,936 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:51,241 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].UpdateCasting Finish
+2022-12-14 21:58:52,117 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].DoHit[0]
+2022-12-14 21:58:52,117 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].HitTarget[¶ñ¹í] Damage:1 Crit:False
+2022-12-14 21:58:52,118 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:52,118 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:52,227 [5] [INFO ] [GameServer] £ºSKill[¶¾¼ýÓê].UpdateSkill Finish
+2022-12-14 21:58:53,100 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:53,100 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:54,078 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:54,078 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:55,057 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:55,058 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:56,037 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:56,037 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:57,022 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:58:57,022 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:58,503 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:304 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:58:58,504 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:304,caster:10,target:3,pos:(5553,1802,0)
+2022-12-14 21:58:58,542 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].Cast Result:[Ok] Status:Casting
+2022-12-14 21:58:58,542 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:58:59,090 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].UpdateCasting Finish
+2022-12-14 21:58:59,743 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[0]
+2022-12-14 21:58:59,743 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:58:59,743 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:58:59,744 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:00,393 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[1]
+2022-12-14 21:59:00,393 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:59:00,395 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:59:00,395 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:00,613 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[É½Çð¾ÞÈË] Damage:2 Crit:False
+2022-12-14 21:59:00,614 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:01,156 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[2]
+2022-12-14 21:59:01,156 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:59:01,157 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:59:01,157 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:01,265 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[É½Çð¾ÞÈË] Damage:2 Crit:False
+2022-12-14 21:59:01,265 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:02,027 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:59:02,027 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].UpdateSkill Finish
+2022-12-14 21:59:02,027 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:04,691 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:59:04,692 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:10,target:3,pos:(5553,1802,0)
+2022-12-14 21:59:04,754 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 21:59:04,754 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:05,515 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 21:59:05,515 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:59:05,516 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:59:05,516 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:06,384 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:59:06,384 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 21:59:06,385 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:12,488 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:302 caster:10 target:3 pos:SkillBridge.Message.NVector3
+2022-12-14 21:59:12,488 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:302,caster:10,target:3,pos:(5553,1802,0)
+2022-12-14 21:59:12,592 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].Cast Result:[Ok] Status:Casting
+2022-12-14 21:59:12,592 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:13,131 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateCasting Finish
+2022-12-14 21:59:13,457 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[0]
+2022-12-14 21:59:13,457 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 21:59:13,457 [5] [INFO ] [GameServer] £ºBullet[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:É½Çð¾ÞÈË Distance:719 Time:0.89875
+2022-12-14 21:59:13,457 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:14,326 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].HitTarget[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:59:14,326 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].UpdateSkill Finish
+2022-12-14 21:59:14,326 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:15,305 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:59:15,306 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:16,286 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:59:16,286 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:17,266 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:59:17,267 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:18,244 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:59:18,245 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:19,221 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[É½Çð¾ÞÈË] Damage:1 Crit:False
+2022-12-14 21:59:19,221 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 21:59:26,064 [36] [INFO ] [GameServer] £ºCharacterLeave£º characterID:1:Acher1
+2022-12-14 21:59:26,064 [36] [INFO ] [GameServer] £ºCharacterLeave: Map:2 characterId:1
+2022-12-14 21:59:26,064 [36] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 1:Acher1 : Map:2 Character:1:Acher1
+2022-12-14 21:59:26,071 [36] [WARN ] [GameServer] £ºClient[] Disconnected
+2022-12-14 22:23:52,269 [37] [WARN ] [GameServer] £ºClient[127.0.0.1:56105]] Connected
+2022-12-14 22:23:52,335 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:user1  Pass:111
+2022-12-14 22:23:53,934 [6] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:Acher1 Map:1
+2022-12-14 22:23:53,935 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:23:53,935 [6] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2022-12-14 22:23:53,936 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:05,478 [6] [INFO ] [GameServer] £ºOnMapTeleport: characterID:1:System.Data.Entity.DynamicProxies.TCharacter_7E56C06723E4687201917DE2E4E83B60CD65DBE580952F84B7219EEB2CB4EE95 TeleporterId:1
+2022-12-14 22:24:05,478 [6] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:1
+2022-12-14 22:24:05,479 [6] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 1:Acher1 : Map:1 Character:1:Acher1
+2022-12-14 22:24:05,479 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:05,479 [6] [INFO ] [GameServer] £ºCharacterEnter: Map:2 characterId:1
+2022-12-14 22:24:05,479 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:06,587 [7] [INFO ] [GameServer] £ºOnMapTeleport: characterID:1:System.Data.Entity.DynamicProxies.TCharacter_7E56C06723E4687201917DE2E4E83B60CD65DBE580952F84B7219EEB2CB4EE95 TeleporterId:1
+2022-12-14 22:24:06,588 [7] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:1
+2022-12-14 22:24:06,588 [7] [INFO ] [GameServer] £ºCharacterEnter: Map:2 characterId:1
+2022-12-14 22:24:06,589 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:11,901 [11] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:11 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 22:24:11,902 [11] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:11,target:4,pos:(0,0,0)
+2022-12-14 22:24:11,956 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 22:24:11,956 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:12,718 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 22:24:12,718 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 22:24:12,718 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:686 Time:0.8575
+2022-12-14 22:24:12,718 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:13,478 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:13,478 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 22:24:13,479 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:27,397 [11] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:11 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 22:24:27,397 [11] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:11,target:4,pos:(0,0,0)
+2022-12-14 22:24:27,430 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-14 22:24:27,431 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:28,192 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2022-12-14 22:24:28,193 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 22:24:28,193 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:665 Time:0.83125
+2022-12-14 22:24:28,194 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:28,956 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:28,956 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-14 22:24:28,957 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:31,236 [12] [INFO ] [GameServer] £ºOnSkillCast: skill:302 caster:11 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 22:24:31,237 [12] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:302,caster:11,target:4,pos:(0,0,0)
+2022-12-14 22:24:31,241 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].Cast Result:[Ok] Status:Casting
+2022-12-14 22:24:31,241 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:31,787 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateCasting Finish
+2022-12-14 22:24:32,113 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[0]
+2022-12-14 22:24:32,113 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 22:24:32,114 [5] [INFO ] [GameServer] £ºBullet[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:665 Time:0.83125
+2022-12-14 22:24:32,114 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:32,874 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:32,874 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].UpdateSkill Finish
+2022-12-14 22:24:32,875 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:33,965 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:33,965 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:34,950 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:34,950 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:35,931 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:35,931 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:36,315 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:303 caster:11 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 22:24:36,316 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:303,caster:11,target:4,pos:(4811,2844,7)
+2022-12-14 22:24:36,368 [5] [INFO ] [GameServer] £ºSKill[¶¾¼ýÓê].Cast Result:[Ok] Status:Casting
+2022-12-14 22:24:36,368 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:36,914 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:36,914 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:37,570 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].UpdateCasting Finish
+2022-12-14 22:24:37,895 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:37,895 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:38,439 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].DoHit[0]
+2022-12-14 22:24:38,439 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].HitTarget[Ð¡¶ñÄ§] Damage:4 Crit:True
+2022-12-14 22:24:38,439 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:38,548 [5] [INFO ] [GameServer] £ºSKill[¶¾¼ýÓê].UpdateSkill Finish
+2022-12-14 22:24:39,528 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:39,528 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:40,510 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:40,510 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:41,372 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:304 caster:11 target:4 pos:SkillBridge.Message.NVector3
+2022-12-14 22:24:41,373 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:304,caster:11,target:4,pos:(4811,2844,7)
+2022-12-14 22:24:41,383 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].Cast Result:[Ok] Status:Casting
+2022-12-14 22:24:41,383 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:41,494 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:41,494 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:41,929 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].UpdateCasting Finish
+2022-12-14 22:24:42,480 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:42,481 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:42,590 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[0]
+2022-12-14 22:24:42,591 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 22:24:42,591 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:665 Time:0.83125
+2022-12-14 22:24:42,592 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:43,240 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[1]
+2022-12-14 22:24:43,240 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 22:24:43,241 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:665 Time:0.83125
+2022-12-14 22:24:43,241 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:43,348 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:43,348 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:43,458 [5] [INFO ] [GameServer] £ºBuff[ÖÐ¶¾].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:43,458 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:43,999 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[2]
+2022-12-14 22:24:43,999 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-14 22:24:44,000 [5] [INFO ] [GameServer] £ºBullet[Á¬Éä].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:665 Time:0.83125
+2022-12-14 22:24:44,000 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[Ð¡¶ñÄ§] Damage:2 Crit:False
+2022-12-14 22:24:44,000 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:44,762 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2022-12-14 22:24:44,762 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].UpdateSkill Finish
+2022-12-14 22:24:44,763 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-14 22:24:49,283 [37] [INFO ] [GameServer] £ºCharacterLeave£º characterID:1:Acher1
+2022-12-14 22:24:49,284 [37] [INFO ] [GameServer] £ºCharacterLeave: Map:2 characterId:1
+2022-12-14 22:24:49,284 [37] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 1:Acher1 : Map:2 Character:1:Acher1
+2022-12-14 22:24:49,284 [37] [WARN ] [GameServer] £ºClient[] Disconnected
+2022-12-14 22:24:53,010 [1] [INFO ] [GameServer] £ºGame Server Exiting...
+2022-12-14 22:24:53,112 [1] [WARN ] [GameServer] £ºStop NetService...
+2022-12-14 22:24:53,113 [1] [WARN ] [GameServer] £ºStoping Message Handler...
+2022-12-14 22:24:53,114 [10] [WARN ] [GameServer] £ºMessageDistribute thread end
+2022-12-14 22:24:53,114 [6] [WARN ] [GameServer] £ºMessageDistribute thread end
+2022-12-14 22:24:53,114 [8] [WARN ] [GameServer] £ºMessageDistribute thread end
+2022-12-14 22:24:53,114 [9] [WARN ] [GameServer] £ºMessageDistribute thread end
+2022-12-14 22:24:53,114 [7] [WARN ] [GameServer] £ºMessageDistribute thread end
+2022-12-14 22:24:53,115 [11] [WARN ] [GameServer] £ºMessageDistribute thread end
+2022-12-14 22:24:53,115 [12] [WARN ] [GameServer] £ºMessageDistribute thread end
+2022-12-14 22:24:53,115 [13] [WARN ] [GameServer] £ºMessageDistribute thread end
+2022-12-14 22:24:53,223 [1] [INFO ] [GameServer] £ºGame Server Exited

@@ -1,0 +1,127 @@
+
+2022-12-06 16:43:19,001 [1] [INFO ] [GameServer] ：Game Server Init
+2022-12-06 16:43:19,058 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-12-06 16:43:20,270 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-12-06 16:43:20,274 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-12-06 16:43:20,274 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-12-06 16:43:20,275 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-12-06 16:43:21,024 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-12-06 16:43:21,063 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-12-06 16:43:21,064 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-12-06 16:43:21,064 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-12-06 16:43:21,066 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-12-06 16:43:21,067 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-12-06 16:43:21,069 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-12-06 16:43:22,042 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-12-06 16:43:22,568 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-12-06 16:43:22,677 [1] [WARN ] [GameServer] ：NetService Started
+2022-12-06 16:43:37,705 [3] [WARN ] [GameServer] ：Client[127.0.0.1:50254]] Connected
+2022-12-06 16:43:37,902 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-12-06 16:43:43,252 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Acher1 Map:1
+2022-12-06 16:43:43,375 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:43:43,386 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-12-06 16:43:43,387 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:43:51,992 [6] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:1:Acher1 Map:1
+2022-12-06 16:43:51,994 [6] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Acher1
+2022-12-06 16:43:51,995 [6] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-12-06 16:43:51,996 [6] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Acher1 : Map:1 Character:1:Acher1
+2022-12-06 16:43:51,997 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:43:51,998 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:43:53,805 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Warrior1 Map:1
+2022-12-06 16:43:53,832 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:3:Warrior1
+2022-12-06 16:43:53,832 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-12-06 16:43:53,833 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:3:Warrior1
+2022-12-06 16:44:05,835 [6] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Warrior1 Map:1
+2022-12-06 16:44:05,836 [6] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Warrior1
+2022-12-06 16:44:05,836 [6] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-12-06 16:44:05,837 [6] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Warrior1 : Map:1 Character:3:Warrior1
+2022-12-06 16:44:05,837 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:3:Warrior1
+2022-12-06 16:44:05,837 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:3:Warrior1
+2022-12-06 16:44:07,229 [7] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Acher1 Map:1
+2022-12-06 16:44:07,230 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:44:07,230 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-12-06 16:44:07,231 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:44:23,025 [5] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-06 16:44:23,027 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-12-06 16:44:23,027 [5] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-06 16:44:23,028 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-12-06 16:44:23,028 [5] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-06 16:44:23,028 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:6
+2022-12-06 16:44:23,028 [5] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-06 16:44:23,029 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:7
+2022-12-06 16:44:23,029 [5] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-06 16:44:23,029 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-12-06 16:44:23,029 [5] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-06 16:44:23,029 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-12-06 16:44:23,029 [5] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-06 16:44:23,030 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:10
+2022-12-06 16:44:23,030 [5] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-06 16:44:23,030 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:11
+2022-12-06 16:44:28,833 [13] [INFO ] [GameServer] ：OnMapTeleport: characterID:1:System.Data.Entity.DynamicProxies.TCharacter_7E56C06723E4687201917DE2E4E83B60CD65DBE580952F84B7219EEB2CB4EE95 TeleporterId:1
+2022-12-06 16:44:28,834 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-12-06 16:44:28,834 [13] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Acher1 : Map:1 Character:1:Acher1
+2022-12-06 16:44:28,835 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:44:28,835 [13] [INFO ] [GameServer] ：CharacterEnter: Map:2 characterId:1
+2022-12-06 16:44:28,836 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:44:38,302 [17] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Acher1
+2022-12-06 16:44:38,302 [17] [INFO ] [GameServer] ：CharacterLeave: Map:2 characterId:1
+2022-12-06 16:44:38,303 [17] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Acher1 : Map:2 Character:1:Acher1
+2022-12-06 16:44:38,303 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-12-06 16:44:54,149 [17] [WARN ] [GameServer] ：Client[127.0.0.1:50405]] Connected
+2022-12-06 16:44:54,214 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-12-06 16:44:55,466 [7] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Acher1 Map:1
+2022-12-06 16:44:55,466 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:44:55,467 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-12-06 16:44:55,467 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:45:08,098 [11] [INFO ] [GameServer] ：OnMapTeleport: characterID:1:System.Data.Entity.DynamicProxies.TCharacter_7E56C06723E4687201917DE2E4E83B60CD65DBE580952F84B7219EEB2CB4EE95 TeleporterId:1
+2022-12-06 16:45:08,099 [11] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-12-06 16:45:08,099 [11] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Acher1 : Map:1 Character:1:Acher1
+2022-12-06 16:45:08,099 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:45:08,100 [11] [INFO ] [GameServer] ：CharacterEnter: Map:2 characterId:1
+2022-12-06 16:45:08,100 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:45:19,603 [13] [INFO ] [GameServer] ：OnSkillCast: skill:301 caster:12 target:5 pos:SkillBridge.Message.NVector3
+2022-12-06 16:45:19,604 [13] [INFO ] [GameServer] ：BattleManager.ProcessBattleMessage:skill:301,caster:12,target:5,pos:(0,0,0)
+2022-12-06 16:45:19,698 [5] [INFO ] [GameServer] ：SKill[普通攻击].Cast Result:[Ok] Status:Running
+2022-12-06 16:45:19,700 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:45:20,464 [5] [INFO ] [GameServer] ：Skill[普通攻击].DoHit[0]
+2022-12-06 16:45:20,465 [5] [INFO ] [GameServer] ：Skill[普通攻击].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-06 16:45:20,466 [5] [INFO ] [GameServer] ：Bullet[普通攻击].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:山丘巨人 Distance:666 Time:0.8325
+2022-12-06 16:45:20,467 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:45:21,226 [5] [INFO ] [GameServer] ：Skill[普通攻击].HitTarget[山丘巨人] Damage:1 Crit:False
+2022-12-06 16:45:21,227 [5] [INFO ] [GameServer] ：SKill[普通攻击].UpdateSkill Finish
+2022-12-06 16:45:21,228 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:46:02,095 [6] [INFO ] [GameServer] ：OnSkillCast: skill:302 caster:12 target:5 pos:SkillBridge.Message.NVector3
+2022-12-06 16:46:02,095 [6] [INFO ] [GameServer] ：BattleManager.ProcessBattleMessage:skill:302,caster:12,target:5,pos:(0,0,0)
+2022-12-06 16:46:02,196 [5] [INFO ] [GameServer] ：SKill[流血箭].Cast Result:[Ok] Status:Casting
+2022-12-06 16:46:02,196 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:46:02,738 [5] [INFO ] [GameServer] ：Skill[流血箭].UpdateCasting Finish
+2022-12-06 16:46:03,066 [5] [INFO ] [GameServer] ：Skill[流血箭].DoHit[0]
+2022-12-06 16:46:03,066 [5] [INFO ] [GameServer] ：Skill[流血箭].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-06 16:46:03,067 [5] [INFO ] [GameServer] ：Bullet[流血箭].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:山丘巨人 Distance:666 Time:0.8325
+2022-12-06 16:46:03,067 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:46:03,832 [5] [INFO ] [GameServer] ：Skill[流血箭].HitTarget[山丘巨人] Damage:1 Crit:False
+2022-12-06 16:46:03,832 [5] [INFO ] [GameServer] ：SKill[流血箭].UpdateSkill Finish
+2022-12-06 16:46:03,833 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:46:40,904 [6] [INFO ] [GameServer] ：OnSkillCast: skill:304 caster:12 target:5 pos:SkillBridge.Message.NVector3
+2022-12-06 16:46:40,904 [6] [INFO ] [GameServer] ：BattleManager.ProcessBattleMessage:skill:304,caster:12,target:5,pos:(0,0,0)
+2022-12-06 16:46:40,991 [5] [INFO ] [GameServer] ：SKill[连射].Cast Result:[Ok] Status:Casting
+2022-12-06 16:46:40,992 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:46:41,538 [5] [INFO ] [GameServer] ：Skill[连射].UpdateCasting Finish
+2022-12-06 16:46:42,194 [5] [INFO ] [GameServer] ：Skill[连射].DoHit[0]
+2022-12-06 16:46:42,195 [5] [INFO ] [GameServer] ：Skill[连射].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-06 16:46:42,195 [5] [INFO ] [GameServer] ：Bullet[连射].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:山丘巨人 Distance:666 Time:0.8325
+2022-12-06 16:46:42,195 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:46:42,844 [5] [INFO ] [GameServer] ：Skill[连射].DoHit[1]
+2022-12-06 16:46:42,844 [5] [INFO ] [GameServer] ：Skill[连射].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-06 16:46:42,844 [5] [INFO ] [GameServer] ：Bullet[连射].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:山丘巨人 Distance:666 Time:0.8325
+2022-12-06 16:46:42,845 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:46:42,954 [5] [INFO ] [GameServer] ：Skill[连射].HitTarget[山丘巨人] Damage:1 Crit:False
+2022-12-06 16:46:42,955 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:46:43,608 [5] [INFO ] [GameServer] ：Skill[连射].DoHit[2]
+2022-12-06 16:46:43,609 [5] [INFO ] [GameServer] ：Skill[连射].CastBullet[EFX_Archer_AtkA_B_dandao_prefab]
+2022-12-06 16:46:43,609 [5] [INFO ] [GameServer] ：Bullet[连射].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:山丘巨人 Distance:666 Time:0.8325
+2022-12-06 16:46:43,611 [5] [INFO ] [GameServer] ：Skill[连射].HitTarget[山丘巨人] Damage:2 Crit:False
+2022-12-06 16:46:43,611 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1
+2022-12-06 16:46:44,366 [5] [INFO ] [GameServer] ：Skill[连射].HitTarget[山丘巨人] Damage:1 Crit:False
+2022-12-06 16:46:44,366 [5] [INFO ] [GameServer] ：SKill[连射].UpdateSkill Finish
+2022-12-06 16:46:44,367 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Acher1

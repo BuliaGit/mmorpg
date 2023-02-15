@@ -1,0 +1,430 @@
+
+2022-11-03 08:43:06,487 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-03 08:43:06,527 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-03 08:43:07,073 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-03 08:43:07,076 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-03 08:43:07,076 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-03 08:43:07,077 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-03 08:43:07,080 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-03 08:43:07,092 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:43:07,095 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:43:07,121 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:43:07,121 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:43:07,121 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:43:07,121 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:43:08,087 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:43:08,597 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:43:08,612 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-03 08:43:11,764 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-03 08:43:11,820 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-03 08:43:11,821 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-03 08:43:11,824 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 08:43:11,824 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 08:43:11,824 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 08:43:11,824 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 08:43:11,824 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 08:43:11,824 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 08:43:11,824 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 08:43:11,825 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 08:43:11,930 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-03 08:44:17,612 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-03 08:44:17,652 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-03 08:44:17,986 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-03 08:44:17,990 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-03 08:44:17,991 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-03 08:44:17,991 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-03 08:44:17,993 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-03 08:44:18,065 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:44:18,067 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:44:18,067 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:44:18,197 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:44:18,197 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:44:18,216 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:44:18,998 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:44:20,001 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 08:44:20,062 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-03 08:45:20,235 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 08:45:20,252 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-11-03 08:45:20,253 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 08:45:20,254 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-03 08:45:20,254 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 08:45:20,254 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-03 08:45:20,254 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 08:45:20,255 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-03 08:45:20,255 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 08:45:20,255 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-11-03 08:45:20,256 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 08:45:20,256 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-03 08:45:20,257 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 08:45:20,257 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-03 08:45:20,258 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 08:45:20,258 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-03 08:49:56,615 [3] [WARN ] [GameServer] ：Client[127.0.0.1:51198]] Connected
+2022-11-03 08:49:56,791 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 08:49:59,542 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 08:49:59,645 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 08:50:10,883 [13] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 08:50:10,916 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 08:50:10,917 [13] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 08:50:10,918 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 08:53:33,633 [13] [WARN ] [GameServer] ：Client[127.0.0.1:51420]] Connected
+2022-11-03 08:53:33,792 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 08:53:35,642 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 08:53:35,643 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 08:54:07,234 [17] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 08:54:07,240 [17] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 08:54:07,240 [17] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 08:54:07,241 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:00:47,809 [17] [WARN ] [GameServer] ：Client[127.0.0.1:63972]] Connected
+2022-11-03 09:00:47,981 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:1111
+2022-11-03 09:00:51,701 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:00:53,666 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:00:53,667 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:04:31,949 [31] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:04:31,950 [31] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:04:31,951 [31] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:04:31,951 [31] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:04:50,826 [38] [WARN ] [GameServer] ：Client[127.0.0.1:64183]] Connected
+2022-11-03 09:04:51,002 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:04:52,791 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:04:52,792 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:06:44,087 [38] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:06:44,088 [38] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:06:44,088 [38] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:06:44,088 [38] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:08:59,877 [43] [WARN ] [GameServer] ：Client[127.0.0.1:64488]] Connected
+2022-11-03 09:08:59,929 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:09:01,458 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:09:01,459 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:09:58,545 [43] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:09:58,546 [43] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:09:58,547 [43] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:09:58,547 [43] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:12:26,316 [50] [WARN ] [GameServer] ：Client[127.0.0.1:64668]] Connected
+2022-11-03 09:12:26,478 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:12:28,079 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:12:28,080 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:14:19,349 [55] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:14:19,350 [55] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:14:19,350 [55] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:14:19,350 [55] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:14:50,269 [55] [WARN ] [GameServer] ：Client[127.0.0.1:64796]] Connected
+2022-11-03 09:14:50,430 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:14:52,004 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:14:52,004 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:19:15,821 [62] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:19:15,822 [62] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:19:15,823 [62] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:19:15,823 [62] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:20:17,075 [71] [WARN ] [GameServer] ：Client[127.0.0.1:65087]] Connected
+2022-11-03 09:20:17,127 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:20:18,680 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:20:18,681 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:20:51,682 [74] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:20:51,683 [74] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:20:51,684 [74] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:20:51,684 [74] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:25:03,655 [74] [WARN ] [GameServer] ：Client[127.0.0.1:65342]] Connected
+2022-11-03 09:25:03,813 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:25:05,327 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:25:05,327 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:25:29,756 [84] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:25:29,758 [84] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:25:29,758 [84] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:25:29,761 [84] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:26:50,364 [84] [WARN ] [GameServer] ：Client[127.0.0.1:65436]] Connected
+2022-11-03 09:26:50,511 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:26:51,903 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:26:51,904 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:27:48,923 [87] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:27:48,924 [87] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:27:48,925 [87] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:27:48,925 [87] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:29:29,917 [85] [WARN ] [GameServer] ：Client[127.0.0.1:49196]] Connected
+2022-11-03 09:29:30,069 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:29:31,601 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:29:31,602 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:30:06,310 [85] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:30:06,313 [85] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:30:06,313 [85] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:30:06,314 [85] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:30:52,378 [85] [WARN ] [GameServer] ：Client[127.0.0.1:49268]] Connected
+2022-11-03 09:30:52,528 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:30:53,940 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:30:53,940 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:34:02,149 [77] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:34:02,150 [77] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:34:02,151 [77] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:34:02,151 [77] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:47:41,814 [77] [WARN ] [GameServer] ：Client[127.0.0.1:50175]] Connected
+2022-11-03 09:47:41,963 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:47:43,348 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:47:43,348 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:53:00,923 [43] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:53:00,924 [43] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:53:00,924 [43] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:53:00,925 [43] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:57:57,529 [32] [WARN ] [GameServer] ：Client[127.0.0.1:50737]] Connected
+2022-11-03 09:57:57,589 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:57:59,089 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:57:59,090 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 09:58:53,793 [21] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 09:58:53,795 [21] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 09:58:53,796 [21] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 09:58:53,796 [21] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 09:59:26,540 [18] [WARN ] [GameServer] ：Client[127.0.0.1:50828]] Connected
+2022-11-03 09:59:26,597 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 09:59:27,925 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 09:59:27,926 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 10:00:58,730 [15] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 10:00:58,731 [15] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 10:00:58,731 [15] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 10:00:58,733 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 10:25:43,713 [90] [WARN ] [GameServer] ：Client[127.0.0.1:52474]] Connected
+2022-11-03 10:25:43,766 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 10:25:45,178 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 10:25:45,179 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 10:27:32,633 [62] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 10:27:32,634 [62] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 10:27:32,634 [62] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 10:27:32,636 [62] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 10:35:59,683 [62] [WARN ] [GameServer] ：Client[127.0.0.1:53005]] Connected
+2022-11-03 10:35:59,740 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 10:36:01,145 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 10:36:01,146 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 10:37:28,921 [62] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 10:37:28,922 [62] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 10:37:28,922 [62] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 10:37:28,923 [62] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 10:43:26,019 [83] [WARN ] [GameServer] ：Client[127.0.0.1:53386]] Connected
+2022-11-03 10:43:26,076 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 10:43:27,712 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 10:43:27,713 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 10:43:39,718 [74] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 10:43:39,720 [74] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 10:43:39,721 [74] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 10:43:39,722 [74] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 10:52:09,901 [74] [WARN ] [GameServer] ：Client[127.0.0.1:53835]] Connected
+2022-11-03 10:52:09,957 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 10:52:11,468 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 10:52:11,469 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 10:53:07,300 [74] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 10:53:07,309 [74] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 10:53:07,309 [74] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 10:53:07,310 [74] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 10:59:17,919 [74] [WARN ] [GameServer] ：Client[127.0.0.1:54200]] Connected
+2022-11-03 10:59:17,978 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 10:59:19,402 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 10:59:19,403 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 10:59:57,334 [74] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 10:59:57,339 [74] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 10:59:57,340 [74] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 10:59:57,340 [74] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 11:00:01,203 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-03 11:00:01,249 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-03 11:00:01,249 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-03 11:00:01,251 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 11:00:01,251 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 11:00:01,251 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 11:00:01,251 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 11:00:01,251 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 11:00:01,251 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 11:00:01,253 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 11:00:01,253 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 11:00:01,357 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-03 15:46:53,445 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-03 15:46:53,614 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-03 15:46:54,415 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-03 15:46:54,419 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-03 15:46:54,419 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-03 15:46:54,419 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-03 15:46:54,421 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-03 15:46:54,448 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:46:54,451 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:46:54,452 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:46:54,452 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:46:54,454 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:46:54,455 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:46:55,434 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:46:56,464 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:46:56,491 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-03 15:47:22,734 [3] [WARN ] [GameServer] ：Client[127.0.0.1:57193]] Connected
+2022-11-03 15:47:22,990 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 15:47:24,825 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 15:47:24,934 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 15:47:56,759 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:47:56,760 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-03 15:47:56,761 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:47:56,761 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-03 15:47:56,761 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:47:56,761 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-03 15:47:56,762 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:47:56,763 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-03 15:47:56,763 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:47:56,764 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-03 15:47:56,765 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:47:56,766 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-03 15:47:56,767 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:47:56,768 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-03 15:47:56,768 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:47:56,769 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-03 15:48:02,569 [15] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 15:48:02,597 [15] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 15:48:02,598 [15] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 15:48:02,600 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 15:48:17,129 [15] [WARN ] [GameServer] ：Client[127.0.0.1:57325]] Connected
+2022-11-03 15:48:17,184 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 15:48:18,597 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 15:48:18,597 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 15:48:33,110 [16] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 15:48:33,115 [16] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 15:48:33,115 [16] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 15:48:33,116 [16] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 15:49:06,242 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-03 15:49:06,331 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-03 15:49:06,332 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-03 15:49:06,333 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 15:49:06,333 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 15:49:06,333 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 15:49:06,333 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 15:49:06,333 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 15:49:06,333 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 15:49:06,334 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 15:49:06,334 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 15:49:06,439 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-03 15:58:09,115 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-03 15:58:09,153 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-03 15:58:09,765 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-03 15:58:09,768 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-03 15:58:09,768 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-03 15:58:09,768 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-03 15:58:09,773 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-03 15:58:09,878 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:58:09,878 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:58:09,880 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:58:09,882 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:58:09,883 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:58:09,888 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:58:10,811 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:58:11,804 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 15:58:11,909 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-03 15:58:25,667 [3] [WARN ] [GameServer] ：Client[127.0.0.1:58066]] Connected
+2022-11-03 15:58:25,836 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 15:58:27,661 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 15:58:27,762 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 15:58:58,288 [3] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 15:58:58,309 [3] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 15:58:58,310 [3] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 15:58:58,316 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 15:59:12,036 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:59:12,038 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-03 15:59:12,038 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:59:12,039 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-03 15:59:12,040 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:59:12,041 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-03 15:59:12,042 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:59:12,043 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-03 15:59:12,045 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:59:12,046 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-03 15:59:12,047 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:59:12,048 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-03 15:59:12,049 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:59:12,049 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-03 15:59:12,050 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 15:59:12,051 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-03 15:59:30,821 [3] [WARN ] [GameServer] ：Client[127.0.0.1:58126]] Connected
+2022-11-03 15:59:30,880 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 15:59:32,413 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 15:59:32,414 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 15:59:51,329 [16] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 15:59:51,330 [16] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 15:59:51,330 [16] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 15:59:51,331 [16] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 16:00:32,099 [16] [WARN ] [GameServer] ：Client[127.0.0.1:58184]] Connected
+2022-11-03 16:00:32,159 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 16:00:33,521 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 16:00:33,521 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 16:00:46,462 [13] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 16:00:46,463 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 16:00:46,463 [13] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 16:00:46,464 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 16:02:22,756 [13] [WARN ] [GameServer] ：Client[127.0.0.1:58288]] Connected
+2022-11-03 16:02:22,815 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 16:02:24,291 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 16:02:24,291 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 16:02:42,284 [8] [INFO ] [GameServer] ：QuestAcceptRequest:: character:1:QuestId1001
+2022-11-03 16:03:54,260 [24] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 16:03:54,264 [24] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 16:03:54,265 [24] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 16:03:54,265 [24] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 16:03:57,922 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-03 16:03:58,001 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-03 16:03:58,001 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-03 16:03:58,002 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 16:03:58,002 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 16:03:58,002 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 16:03:58,002 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 16:03:58,002 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 16:03:58,004 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 16:03:58,004 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 16:03:58,005 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 16:58:55,801 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-03 16:58:55,840 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-03 16:58:56,154 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-03 16:58:56,166 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-03 16:58:56,197 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-03 16:58:56,205 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-03 16:58:56,277 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-03 16:58:56,293 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 16:58:56,294 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 16:58:56,365 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 16:58:56,521 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 16:58:56,521 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 16:58:56,521 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 16:58:57,292 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 16:58:57,802 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-03 16:58:57,872 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-03 16:59:14,790 [3] [WARN ] [GameServer] ：Client[127.0.0.1:61313]] Connected
+2022-11-03 16:59:14,955 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 16:59:16,989 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 16:59:17,145 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 16:59:58,077 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 16:59:58,078 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-03 16:59:58,079 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 16:59:58,079 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-03 16:59:58,079 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 16:59:58,080 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-03 16:59:58,080 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 16:59:58,082 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-03 16:59:58,083 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 16:59:58,084 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-03 16:59:58,084 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 16:59:58,085 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-03 16:59:58,085 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 16:59:58,086 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-03 16:59:58,086 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-03 16:59:58,087 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-03 17:00:04,149 [14] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 17:00:04,178 [14] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 17:00:04,179 [14] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 17:00:04,182 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 17:00:27,249 [14] [WARN ] [GameServer] ：Client[127.0.0.1:61381]] Connected
+2022-11-03 17:00:27,308 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-03 17:00:28,703 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-03 17:00:28,704 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-03 17:04:46,730 [21] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-03 17:04:46,736 [21] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-03 17:04:46,736 [21] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-03 17:04:46,739 [21] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-03 17:04:50,874 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-03 17:04:50,956 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-03 17:04:50,957 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-03 17:04:50,957 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 17:04:50,957 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 17:04:50,957 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 17:04:50,957 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 17:04:50,957 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 17:04:50,957 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 17:04:50,959 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 17:04:50,959 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-03 17:04:51,064 [1] [INFO ] [GameServer] ：Game Server Exited

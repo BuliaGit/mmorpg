@@ -1,0 +1,1816 @@
+
+2022-11-09 08:27:12,694 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 08:27:12,743 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 08:27:13,182 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 08:27:13,186 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 08:27:13,186 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 08:27:13,186 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 08:27:13,189 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 08:27:13,211 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 08:27:13,212 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 08:27:13,221 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 08:27:13,252 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 08:27:13,253 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 08:27:13,253 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 08:27:14,224 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 08:27:15,393 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 08:27:15,496 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 08:27:19,008 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-09 08:27:19,020 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-09 08:27:19,020 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-09 08:27:19,021 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 08:27:19,021 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 08:27:19,021 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 08:27:19,021 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 08:27:19,024 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 08:27:19,024 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 08:27:19,024 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 08:27:19,024 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 08:27:19,139 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-09 09:33:09,474 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 09:33:09,546 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 09:33:09,816 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 09:33:09,820 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 09:33:09,822 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 09:33:09,824 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 09:33:09,826 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 09:33:09,887 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 09:33:09,887 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 09:33:09,887 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 09:33:09,887 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 09:33:09,887 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 09:33:09,887 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 09:33:10,837 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 09:33:11,849 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 09:33:11,941 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 10:44:42,210 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 10:44:42,256 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 10:44:42,949 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 10:44:42,961 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 10:44:42,970 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 10:44:42,972 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 10:44:42,987 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 10:44:43,048 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 10:44:43,048 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 10:44:43,049 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 10:44:43,049 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 10:44:43,084 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 10:44:43,084 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 10:44:44,021 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 10:44:45,006 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 10:44:45,083 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 11:17:57,923 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 11:17:57,962 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 11:17:58,336 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 11:17:58,339 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 11:17:58,339 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 11:17:58,339 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 11:17:58,343 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 11:17:58,459 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 11:17:58,459 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 11:17:58,459 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 11:17:58,460 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 11:17:58,460 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 11:17:58,463 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 11:17:59,357 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 11:18:00,362 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 11:18:00,439 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 20:33:56,179 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 20:33:56,218 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 20:33:56,570 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 20:33:56,572 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 20:33:56,573 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 20:33:56,573 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 20:33:56,576 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 20:33:56,604 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:33:56,604 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:33:56,604 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:33:56,607 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:33:56,607 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:33:56,612 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:33:57,594 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:33:58,592 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:33:58,652 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 20:34:17,352 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-09 20:34:17,395 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-09 20:34:17,399 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-09 20:34:17,402 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 20:34:17,402 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 20:34:17,402 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 20:34:17,402 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 20:34:17,402 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 20:34:17,402 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 20:34:17,403 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 20:34:17,404 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 20:34:17,519 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-09 20:55:21,404 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 20:55:21,443 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 20:55:21,730 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 20:55:21,740 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 20:55:21,763 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 20:55:21,765 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 20:55:21,772 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 20:55:21,849 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:55:21,854 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:55:21,880 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:55:21,880 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:55:21,882 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:55:21,894 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:55:23,803 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:55:27,799 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 20:55:27,907 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 20:55:50,879 [3] [WARN ] [GameServer] ：Client[127.0.0.1:61612]] Connected
+2022-11-09 20:55:51,030 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-09 20:55:53,567 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 20:55:53,661 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 20:55:53,662 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:56:28,060 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 20:56:28,061 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-09 20:56:28,062 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 20:56:28,062 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-09 20:56:28,063 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 20:56:28,063 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-09 20:56:28,064 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 20:56:28,065 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-09 20:56:28,065 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 20:56:28,066 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-09 20:56:28,066 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 20:56:28,067 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-09 20:56:28,068 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 20:56:28,068 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-09 20:56:28,069 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 20:56:28,070 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-09 20:56:34,232 [3] [WARN ] [GameServer] ：Client[127.0.0.1:61681]] Connected
+2022-11-09 20:56:34,294 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 20:56:36,156 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 20:56:36,176 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 20:56:36,184 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 20:56:36,185 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:56:36,185 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:06,461 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:06,616 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:06,799 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:06,982 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,003 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,090 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,153 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,165 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,217 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,311 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,321 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,500 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,681 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,858 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:07,934 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:08,016 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:08,180 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:08,341 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:08,415 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:08,510 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:08,608 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:08,684 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:08,765 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:08,898 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:32,839 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:32,928 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:32,991 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:33,052 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:33,106 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:33,169 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:33,237 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:33,318 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:33,451 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:57:36,080 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:36,516 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:36,681 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:36,847 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:36,881 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:36,932 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,048 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,097 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,233 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,282 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,465 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,565 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,599 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,764 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,948 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:37,982 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:38,098 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:38,131 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:38,382 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:38,681 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:38,880 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:39,081 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:39,181 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:39,214 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:39,681 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:39,915 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:40,082 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:40,331 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:57:54,611 [5] [INFO ] [GameServer] ：OnFriendAddRequest:: fromId:1fromName不要总熬夜 ToID:0 ToName:Archer
+2022-11-09 20:57:54,612 [5] [INFO ] [GameServer] ：ForwardResqust:: FromId1 FromName:不要总熬夜 ToId:8ToName:Archer
+2022-11-09 20:57:54,614 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:58:01,219 [5] [INFO ] [GameServer] ：OnFriendAddResponse:: charactor:8 Result:Success fromId:1 ToID:8
+2022-11-09 20:58:01,256 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:58:01,257 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 20:58:01,257 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 20:58:01,258 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 20:58:01,260 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:58:01,261 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 20:58:01,261 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 20:58:27,314 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:58:27,314 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 20:58:27,316 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 20:58:27,317 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 20:58:27,481 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:58:27,681 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:58:29,721 [20] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-09 20:58:29,735 [20] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-09 20:58:29,736 [20] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:1:不要总熬夜
+2022-11-09 20:58:29,737 [20] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:58:29,740 [20] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 20:58:29,741 [20] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 20:58:29,742 [20] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-09 20:58:29,743 [20] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 20:59:35,994 [22] [WARN ] [GameServer] ：Client[127.0.0.1:62166]] Connected
+2022-11-09 20:59:36,053 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 20:59:37,295 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 20:59:37,296 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 20:59:37,297 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 20:59:37,297 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 20:59:37,298 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:37,300 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 20:59:37,300 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 20:59:37,301 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:59:37,302 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 20:59:37,302 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 20:59:37,303 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 20:59:39,019 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,020 [7] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 20:59:39,020 [7] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 20:59:39,102 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,162 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,194 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,223 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,285 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,352 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,360 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,433 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,546 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,706 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,721 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,773 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,834 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,893 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,901 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,940 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:39,989 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,047 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,087 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,260 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,390 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,441 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,449 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,507 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,573 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,621 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,644 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,699 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,755 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,809 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,818 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,864 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,877 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:40,946 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:41,054 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:43,480 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:59:43,481 [11] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 20:59:43,482 [11] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 20:59:43,484 [11] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 20:59:43,649 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:59:43,831 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:59:44,097 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:59:44,598 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 20:59:46,154 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:46,154 [8] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 20:59:46,155 [8] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 20:59:46,265 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:46,429 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:46,517 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:46,531 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:47,101 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:47,228 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 20:59:47,461 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:02:55,487 [20] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-09 21:02:55,491 [20] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-09 21:02:55,492 [20] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:1:不要总熬夜
+2022-11-09 21:02:55,492 [20] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:02:55,492 [20] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 21:02:55,493 [20] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 21:02:55,495 [20] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-09 21:02:55,496 [20] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 21:03:09,205 [27] [INFO ] [GameServer] ：CharacterLeave： characterID:8:Archer
+2022-11-09 21:03:09,206 [27] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:8
+2022-11-09 21:03:09,207 [27] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:8:Archer
+2022-11-09 21:03:09,207 [27] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 21:04:04,501 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 21:04:04,541 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 21:04:04,893 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 21:04:04,898 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 21:04:04,900 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 21:04:04,901 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 21:04:04,906 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 21:04:05,203 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:04:05,203 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:04:05,203 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:04:05,203 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:04:05,205 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:04:05,206 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:04:05,921 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:04:06,919 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:04:06,949 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 21:05:07,098 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:05:07,103 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-11-09 21:05:07,104 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:05:07,104 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-09 21:05:07,105 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:05:07,105 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-09 21:05:07,105 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:05:07,105 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-09 21:05:07,105 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:05:07,106 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-11-09 21:05:07,107 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:05:07,107 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-09 21:05:07,108 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:05:07,109 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-09 21:05:07,109 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:05:07,110 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-09 21:05:11,502 [3] [WARN ] [GameServer] ：Client[127.0.0.1:62509]] Connected
+2022-11-09 21:05:11,672 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 21:05:14,938 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 21:05:15,042 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 21:05:15,043 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 21:05:15,065 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 21:05:15,067 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:05:26,423 [3] [WARN ] [GameServer] ：Client[127.0.0.1:62525]] Connected
+2022-11-09 21:05:26,465 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-09 21:05:28,380 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 21:05:28,384 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 21:05:28,386 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 21:05:28,387 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:05:28,387 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 21:05:28,388 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 21:05:28,388 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 21:05:28,390 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:05:28,391 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 21:05:28,392 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 21:05:30,454 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:05:30,578 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:05:30,655 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:05:30,711 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:05:30,773 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:05:30,841 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:05:30,921 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:05:32,363 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:05:32,363 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 21:05:32,364 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 21:05:32,365 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 21:05:32,531 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:05:32,697 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:05:32,880 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:05:33,160 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:08:30,472 [13] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-09 21:08:30,476 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-09 21:08:30,477 [13] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-09 21:08:30,479 [13] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:1:不要总熬夜
+2022-11-09 21:08:30,480 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:08:30,480 [13] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 21:08:30,481 [13] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 21:08:30,482 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 21:08:41,848 [17] [INFO ] [GameServer] ：CharacterLeave： characterID:8:Archer
+2022-11-09 21:08:41,870 [17] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:8
+2022-11-09 21:08:41,871 [17] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:8:Archer
+2022-11-09 21:08:41,871 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 21:36:37,628 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 21:36:37,669 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 21:36:38,015 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 21:36:38,019 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 21:36:38,021 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 21:36:38,021 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 21:36:38,026 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 21:36:38,079 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:36:38,080 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:36:38,086 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:36:38,121 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:36:38,144 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:36:38,145 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:36:39,071 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:36:40,067 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:36:40,143 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 21:37:27,436 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64835]] Connected
+2022-11-09 21:37:27,700 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 21:37:30,144 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 21:37:30,253 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 21:37:30,253 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 21:37:30,269 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 21:37:30,270 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:37:40,349 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:37:40,351 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-09 21:37:40,351 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:37:40,351 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-09 21:37:40,351 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:37:40,355 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-09 21:37:40,356 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:37:40,357 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-09 21:37:40,358 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:37:40,360 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-09 21:37:40,361 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:37:40,362 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-09 21:37:40,363 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:37:40,369 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-09 21:37:40,371 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 21:37:40,373 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-09 21:38:58,155 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64921]] Connected
+2022-11-09 21:38:58,202 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-09 21:38:59,805 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 21:38:59,814 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 21:38:59,815 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 21:38:59,816 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:38:59,816 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 21:38:59,817 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 21:38:59,817 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 21:38:59,819 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 21:38:59,819 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 21:38:59,820 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 21:39:01,424 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:01,424 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 21:39:01,425 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 21:39:01,426 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 21:39:01,589 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:01,757 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:01,940 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,105 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,289 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,323 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,472 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,505 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,655 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,688 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,821 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,855 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:02,889 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:03,005 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:03,188 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:03,373 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:03,556 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:03,623 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:03,739 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:03,773 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:03,923 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:03,958 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:04,139 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:04,172 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:04,305 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:04,338 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:04,489 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:04,672 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:04,856 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:04,889 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:35,484 [3] [INFO ] [GameServer] ：CharacterLeave： characterID:8:Archer
+2022-11-09 21:39:35,527 [3] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:8
+2022-11-09 21:39:35,528 [3] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:8:Archer
+2022-11-09 21:39:35,528 [3] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 21:39:35,529 [3] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 21:39:35,530 [3] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 21:39:35,530 [3] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 21:39:35,531 [3] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:8:Archer
+2022-11-09 21:39:35,533 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 21:39:40,594 [16] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-09 21:39:40,595 [16] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-09 21:39:40,595 [16] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-09 21:39:40,595 [16] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 21:39:44,812 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-09 21:39:44,857 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-09 21:39:44,858 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-09 21:39:44,859 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 21:39:44,859 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 21:39:44,859 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 21:39:44,859 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 21:39:44,859 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 21:39:44,859 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 21:39:44,861 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 21:39:44,861 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 21:39:44,964 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-09 21:54:47,261 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 21:54:47,299 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 21:54:47,642 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 21:54:47,644 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 21:54:47,645 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 21:54:47,645 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 21:54:47,647 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 21:54:47,724 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:54:47,724 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:54:47,724 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:54:47,725 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:54:47,735 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:54:47,743 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:54:48,661 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:54:49,655 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 21:54:49,716 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 21:55:05,757 [3] [WARN ] [GameServer] ：Client[127.0.0.1:49445]] Connected
+2022-11-09 21:55:05,924 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 22:00:24,869 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:00:24,873 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-11-09 22:00:24,874 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:00:24,874 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-09 22:00:24,874 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:00:24,875 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-09 22:00:24,875 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:00:24,876 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-09 22:00:24,877 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:00:24,878 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-11-09 22:00:24,879 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:00:24,879 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-09 22:00:24,880 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:00:24,881 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-09 22:00:24,881 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:00:24,882 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-09 22:00:38,211 [3] [WARN ] [GameServer] ：Client[127.0.0.1:49779]] Connected
+2022-11-09 22:00:38,255 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-09 22:00:49,687 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 22:00:49,791 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 22:01:31,856 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 22:01:31,856 [7] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 22:01:31,857 [6] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 22:01:31,857 [7] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 22:01:46,317 [9] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 22:01:46,319 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 22:01:47,005 [9] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 22:01:47,006 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:01:47,038 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:01:47,558 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:01:47,860 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:02:08,318 [8] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 22:02:27,652 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 22:02:29,188 [9] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 22:02:29,188 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 22:02:29,847 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:02:30,417 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:03:02,614 [8] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:03:05,211 [8] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 22:03:16,267 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:03:18,528 [8] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 22:03:19,162 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:03:20,122 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:03:30,391 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:10:49,532 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 22:10:49,574 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 22:10:49,843 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 22:10:49,846 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 22:10:49,846 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 22:10:49,846 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 22:10:49,849 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 22:10:49,892 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:10:49,892 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:10:49,893 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:10:49,893 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:10:49,893 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:10:49,894 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:10:50,855 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:10:51,367 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:10:51,413 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 22:11:08,964 [3] [WARN ] [GameServer] ：Client[127.0.0.1:50438]] Connected
+2022-11-09 22:11:09,221 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 22:11:11,296 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 22:11:11,404 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:11:11,404 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 22:11:11,418 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 22:11:11,419 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:11:51,636 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:11:51,637 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-09 22:11:51,638 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:11:51,638 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-09 22:11:51,638 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:11:51,639 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-09 22:11:51,641 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:11:51,642 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-09 22:11:51,642 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:11:51,643 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-09 22:11:51,643 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:11:51,644 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-09 22:11:51,644 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:11:51,645 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-09 22:11:51,646 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:11:51,646 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-09 22:11:53,923 [14] [WARN ] [GameServer] ：Client[127.0.0.1:50497]] Connected
+2022-11-09 22:11:53,967 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-09 22:11:58,616 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 22:11:58,623 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 22:11:58,623 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 22:11:58,624 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:11:58,624 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 22:11:58,625 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:11:58,625 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 22:11:58,627 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:11:58,627 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 22:11:58,628 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 22:13:28,136 [13] [INFO ] [GameServer] ：CharacterLeave： characterID:8:Archer
+2022-11-09 22:13:28,171 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:8
+2022-11-09 22:13:28,171 [13] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:8:Archer
+2022-11-09 22:13:28,173 [13] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:13:28,175 [13] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 22:13:28,175 [13] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:13:28,176 [13] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 22:13:28,177 [13] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:8:Archer
+2022-11-09 22:13:28,177 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 22:13:30,875 [13] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-09 22:13:30,876 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-09 22:13:30,877 [13] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-09 22:13:30,877 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 22:13:34,549 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-09 22:13:34,564 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-09 22:13:34,565 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-09 22:13:34,566 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 22:13:34,566 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 22:13:34,566 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 22:13:34,566 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 22:13:34,566 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 22:13:34,566 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 22:13:34,568 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 22:13:34,568 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 22:13:34,672 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-09 22:17:58,312 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 22:17:58,349 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 22:17:58,640 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 22:17:58,643 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 22:17:58,643 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 22:17:58,644 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 22:17:58,646 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 22:17:58,657 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:17:58,663 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:17:58,691 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:17:58,691 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:17:58,693 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:17:58,691 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:17:59,658 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:18:00,666 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:18:00,758 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 22:18:13,348 [3] [WARN ] [GameServer] ：Client[127.0.0.1:50834]] Connected
+2022-11-09 22:18:13,513 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 22:18:15,272 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 22:18:15,376 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:18:15,376 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 22:18:15,391 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 22:18:15,394 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:21:59,596 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 22:21:59,642 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 22:21:59,960 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 22:21:59,962 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 22:21:59,962 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 22:21:59,962 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 22:21:59,965 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 22:22:00,001 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:22:00,001 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:22:00,001 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:22:00,001 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:22:00,001 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:22:00,003 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:22:01,481 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:22:02,484 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:22:02,528 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 22:23:02,741 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:23:02,746 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-11-09 22:23:02,747 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:23:02,748 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-09 22:23:02,748 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:23:02,748 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-09 22:23:02,749 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:23:02,749 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-09 22:23:02,749 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:23:02,750 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-11-09 22:23:02,751 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:23:02,752 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-09 22:23:02,752 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:23:02,753 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-09 22:23:02,754 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:23:02,755 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-09 22:23:03,674 [3] [WARN ] [GameServer] ：Client[127.0.0.1:51105]] Connected
+2022-11-09 22:23:03,846 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 22:23:05,442 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 22:23:05,544 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:23:05,545 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 22:23:05,560 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 22:23:05,562 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:24:24,041 [13] [WARN ] [GameServer] ：Client[127.0.0.1:51179]] Connected
+2022-11-09 22:24:24,086 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-09 22:24:25,696 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 22:24:25,704 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 22:24:25,705 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 22:24:25,706 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:24:25,706 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 22:24:25,707 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:24:25,709 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 22:24:33,212 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:24:33,212 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 22:24:33,213 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 22:24:50,663 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:24:50,664 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 22:24:50,666 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:24:50,667 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 22:24:56,221 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:24:56,221 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:24:56,222 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:24:56,222 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:38:35,328 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 22:38:35,365 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 22:38:35,676 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 22:38:35,678 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 22:38:35,678 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 22:38:35,679 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 22:38:35,682 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 22:38:35,689 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:38:35,689 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:38:35,689 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:38:35,691 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:38:35,695 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:38:35,697 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:38:36,697 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:38:37,699 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 22:38:37,792 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 22:39:37,978 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:39:37,982 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-11-09 22:39:37,983 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:39:37,984 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-09 22:39:37,984 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:39:37,984 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-09 22:39:37,985 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:39:37,985 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-09 22:39:37,985 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:39:37,985 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-11-09 22:39:37,986 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:39:37,986 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-09 22:39:37,987 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:39:37,987 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-09 22:39:37,988 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 22:39:37,990 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-09 22:41:05,790 [3] [WARN ] [GameServer] ：Client[127.0.0.1:52054]] Connected
+2022-11-09 22:41:06,041 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 22:41:08,664 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 22:41:08,779 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:41:08,779 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 22:41:08,795 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 22:41:08,796 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:41:45,298 [13] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-09 22:41:45,301 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-09 22:41:45,302 [13] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-09 22:41:45,302 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 22:42:54,299 [13] [WARN ] [GameServer] ：Client[127.0.0.1:52150]] Connected
+2022-11-09 22:42:54,458 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 22:42:55,796 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 22:42:55,797 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:42:55,798 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 22:42:55,802 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 22:42:55,802 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:35,720 [15] [WARN ] [GameServer] ：Client[127.0.0.1:52195]] Connected
+2022-11-09 22:43:35,768 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-09 22:43:37,239 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 22:43:37,251 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 22:43:37,252 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 22:43:37,254 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:37,254 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 22:43:37,257 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:43:37,260 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 22:43:44,288 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 22:43:44,290 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 22:43:44,291 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 22:43:53,024 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:53,025 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 22:43:53,025 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:43:53,026 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 22:43:58,430 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:58,430 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:58,431 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:58,432 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:58,433 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:58,434 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:58,436 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:43:58,439 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:44:01,853 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:44:44,809 [19] [INFO ] [GameServer] ：CharacterLeave： characterID:8:Archer
+2022-11-09 22:44:44,813 [19] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:8
+2022-11-09 22:44:44,813 [19] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:8:Archer
+2022-11-09 22:44:44,814 [19] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 22:44:44,815 [19] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 22:44:44,816 [19] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 22:44:44,817 [19] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 23:02:37,260 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 23:02:37,313 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 23:02:37,603 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 23:02:37,606 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 23:02:37,606 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 23:02:37,607 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 23:02:37,610 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 23:02:37,629 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:02:37,630 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:02:37,631 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:02:37,631 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:02:37,632 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:02:37,633 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:02:38,623 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:02:39,618 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:02:39,678 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 23:03:52,589 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 23:03:52,626 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 23:03:53,033 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 23:03:53,039 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 23:03:53,039 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 23:03:53,039 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 23:03:53,042 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 23:03:53,202 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:03:53,205 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:03:53,207 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:03:53,207 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:03:53,211 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:03:53,214 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:03:54,061 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:03:54,562 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:03:54,626 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 23:04:11,712 [3] [WARN ] [GameServer] ：Client[127.0.0.1:53444]] Connected
+2022-11-09 23:04:11,880 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 23:04:13,881 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 23:04:13,981 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:04:13,981 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 23:04:13,996 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 23:04:13,997 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:04:54,825 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:04:54,827 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-09 23:04:54,827 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:04:54,827 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-09 23:04:54,827 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:04:54,830 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-09 23:04:54,830 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:04:54,831 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-09 23:04:54,832 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:04:54,833 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-09 23:04:54,834 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:04:54,839 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-09 23:04:54,839 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:04:54,840 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-09 23:04:54,841 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:04:54,842 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-09 23:05:00,017 [13] [WARN ] [GameServer] ：Client[127.0.0.1:53487]] Connected
+2022-11-09 23:05:00,069 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-09 23:05:01,686 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 23:05:01,694 [6] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:05:01,695 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 23:05:01,696 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:01,696 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:05:01,698 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:05:01,699 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:05:01,700 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:01,701 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:05:01,702 [6] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:05:04,337 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:04,337 [7] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:05:04,338 [7] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:05:04,338 [7] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:05:04,521 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:04,686 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:04,869 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:05,036 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:05,203 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:05,387 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:05,553 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:05,720 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:05,787 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:05,969 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,003 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,153 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,270 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,336 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,437 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,502 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,603 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,686 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,786 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:06,953 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:07,036 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:07,136 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:07,705 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:07,902 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:08,320 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,320 [8] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:05:08,322 [8] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:05:08,331 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,443 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,496 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,515 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,580 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,639 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,677 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,709 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,763 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,789 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,824 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,872 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:08,921 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,157 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,232 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,297 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,356 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,409 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,473 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,539 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,588 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,650 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,716 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,786 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,851 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,917 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:09,988 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:10,066 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:10,969 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:10,970 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:05:10,971 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:05:10,971 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:05:11,219 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:11,268 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:11,321 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:11,452 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:11,502 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:11,652 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:11,820 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:11,969 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:12,203 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:12,354 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:12,519 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:12,554 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:12,653 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:12,686 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:12,852 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:13,036 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:13,219 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:13,252 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:13,403 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:13,569 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:13,735 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:13,919 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,086 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,169 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,204 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,236 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,270 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,419 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,453 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,602 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,637 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,803 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,915 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:14,916 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:05:14,917 [6] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:05:14,986 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:14,986 [7] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:05:14,987 [7] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:05:14,987 [7] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:05:15,186 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:15,302 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:15,353 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:15,469 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:15,519 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:15,653 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:15,702 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:15,836 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,021 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,204 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,368 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,453 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,553 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,620 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,737 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,786 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,920 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,953 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:16,986 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:17,020 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:17,136 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:17,319 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:17,486 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:17,653 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:17,785 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:17,838 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,019 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,053 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,135 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,202 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,286 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,353 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,386 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,518 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,670 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,705 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,836 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:18,886 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,002 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,070 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,152 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,235 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,320 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,402 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,502 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,652 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,686 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:19,772 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:20,152 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:20,419 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:33,476 [5] [INFO ] [GameServer] ：OnTeamInviteRequest::FromId:1 FromName:不要总熬夜 ToID:8 ToName:Archer
+2022-11-09 23:05:33,477 [5] [INFO ] [GameServer] ：ForwardTeamInviteRequest::FromId:1 FromName:不要总熬夜 ToID:8 ToName:Archer
+2022-11-09 23:05:33,478 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:33,478 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:05:33,479 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:05:37,208 [5] [INFO ] [GameServer] ：OnTeamInviteResponse::character:8 Result:Success FromId:1 ToId:8
+2022-11-09 23:05:37,210 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:05:37,211 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:05:37,212 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:05:37,212 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:05:49,763 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  0<1668006337
+2022-11-09 23:05:49,769 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:05:49,770 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:05:49,771 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:05:52,536 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  0<1668006337
+2022-11-09 23:06:09,690 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:12,830 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:15,502 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:15,503 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:06:15,505 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:06:15,505 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:06:15,506 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:15,669 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:15,669 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:15,702 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:15,703 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:15,770 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:15,770 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:15,968 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:15,968 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:16,069 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:16,069 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:16,270 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:16,271 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:16,454 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:16,455 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:16,619 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:16,620 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:16,803 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:16,804 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:16,986 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:16,987 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:17,021 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:17,022 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:17,053 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:17,053 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:17,220 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:17,221 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:20,320 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,321 [11] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:06:20,321 [11] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:06:20,322 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,350 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,351 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,426 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,426 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,455 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,456 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,494 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,495 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,546 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,547 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,608 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,609 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,673 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,674 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,714 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,714 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,748 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,749 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:20,879 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:20,880 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,044 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,044 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,217 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,218 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,271 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,272 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,353 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,353 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,420 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,422 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,436 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,437 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,483 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,484 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,537 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,538 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,600 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,601 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,663 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,664 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,677 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,677 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,726 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,726 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,794 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,795 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,834 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,835 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:21,997 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:21,998 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,117 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,117 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,151 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,151 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,178 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,178 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,251 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,252 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,320 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,320 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,336 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,337 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,346 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,346 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,372 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,372 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,447 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,447 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,517 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,519 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,572 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,573 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,647 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,647 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,710 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,711 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,767 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,768 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,835 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,836 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,916 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,917 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:22,984 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:22,985 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:23,054 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:23,054 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:23,160 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:23,161 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006337
+2022-11-09 23:06:24,652 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:24,653 [8] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:06:24,653 [8] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:06:24,654 [8] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:06:24,654 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:25,354 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:25,355 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:25,886 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:25,886 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:26,020 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:26,020 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:26,186 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:26,186 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:26,269 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:26,269 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:26,785 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:26,786 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:27,470 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:27,471 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:30,985 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:30,986 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:31,069 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:31,069 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:31,218 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:31,219 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:31,269 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:31,270 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:32,135 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:32,136 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:32,320 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:32,321 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:32,486 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:32,486 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:33,170 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:33,171 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:33,437 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:33,437 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006337
+2022-11-09 23:06:44,672 [5] [INFO ] [GameServer] ：OnTeamLeave::character:8 TeamID:1:8
+2022-11-09 23:06:44,673 [5] [INFO ] [GameServer] ：Leave Team:8:Archer
+2022-11-09 23:06:44,674 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:44,674 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:06:44,675 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:06:46,786 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:46,787 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:06:46,787 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:06:46,788 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:06:46,788 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006337<1668006404
+2022-11-09 23:06:46,919 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:46,920 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:47,068 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:47,068 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:47,636 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:47,637 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:47,670 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:47,671 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:47,702 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:47,703 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:47,852 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:47,853 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:47,887 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:47,887 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,069 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,069 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,077 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:48,078 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:06:48,079 [6] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:06:48,219 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,219 [7] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:06:48,220 [7] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:06:48,220 [7] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:06:48,221 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,386 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,387 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,469 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,469 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,519 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,520 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,569 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,569 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,603 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,603 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,637 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,637 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,719 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,720 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,819 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,819 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:48,985 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:48,986 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:49,153 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:49,154 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:49,335 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:49,335 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:49,519 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:49,520 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:49,702 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:49,702 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:49,868 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:49,869 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:50,036 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:50,037 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:50,220 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:50,221 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:50,402 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:50,402 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:50,569 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:50,569 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:50,636 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:50,637 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:50,736 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:50,736 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:50,818 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:50,819 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:50,902 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:50,902 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,002 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,002 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,085 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,086 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,185 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,186 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,252 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,252 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,368 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,370 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,418 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,420 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,552 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,552 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,586 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,586 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,719 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,719 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,752 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,752 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,785 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,786 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:51,952 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:51,952 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,052 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,053 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,118 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,119 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,202 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,202 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,285 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,285 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,385 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,386 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,469 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,469 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,569 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,570 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,652 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,652 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,719 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,720 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,852 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,853 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:52,886 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:52,886 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:53,036 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:53,036 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:53,219 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:53,219 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:53,386 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:53,387 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:53,586 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:53,586 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006404
+2022-11-09 23:06:56,161 [9] [INFO ] [GameServer] ：OnTeamLeave::character:1 TeamID:1:1
+2022-11-09 23:06:56,161 [9] [INFO ] [GameServer] ：Leave Team:1:不要总熬夜
+2022-11-09 23:06:56,162 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:06:57,504 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,504 [10] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:06:57,506 [10] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:06:57,586 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,647 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,713 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,728 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,780 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,814 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,835 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,898 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,972 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:57,996 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,088 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,172 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,359 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,372 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,434 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,447 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,514 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,576 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,644 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,713 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,771 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,838 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,906 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:06:58,998 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:03,727 [5] [INFO ] [GameServer] ：OnTeamInviteRequest::FromId:1 FromName:不要总熬夜 ToID:8 ToName:Archer
+2022-11-09 23:07:03,728 [5] [INFO ] [GameServer] ：ForwardTeamInviteRequest::FromId:1 FromName:不要总熬夜 ToID:8 ToName:Archer
+2022-11-09 23:07:03,729 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:05,620 [5] [INFO ] [GameServer] ：OnTeamInviteResponse::character:8 Result:Success FromId:1 ToId:8
+2022-11-09 23:07:05,620 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:05,621 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:07:05,623 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:07:05,624 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:07:05,625 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006404<1668006425
+2022-11-09 23:07:05,626 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:05,627 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:07:05,627 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:07:05,627 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006337<1668006425
+2022-11-09 23:07:07,568 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:07,570 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:07:07,570 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:07:07,571 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:07:07,571 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:07,618 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:07,619 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:07,652 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:07,652 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:07,802 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:07,802 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:07,835 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:07,836 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:07,970 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:07,970 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,152 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,153 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,186 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,186 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,302 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,303 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,352 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,352 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,468 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,469 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,518 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,519 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,620 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,620 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,702 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,702 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,786 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,787 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,886 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,887 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:08,968 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:08,969 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:09,153 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:09,153 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:09,303 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:09,303 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:09,337 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:09,337 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  1668006425<1668006425
+2022-11-09 23:07:12,623 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:12,624 [10] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:07:12,625 [10] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:07:12,625 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:12,779 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:12,780 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:12,824 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:12,825 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:12,927 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:12,928 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:12,963 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:12,964 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,002 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,003 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,057 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,057 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,119 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,120 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,132 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,133 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,142 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,142 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,173 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,174 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,229 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,230 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,277 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,278 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,288 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,288 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,336 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,336 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,404 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,405 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,441 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,441 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,464 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,465 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,547 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,547 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,615 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,616 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,650 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,651 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,796 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,797 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,913 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,913 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:13,979 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:13,979 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,154 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,154 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,312 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,312 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,498 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,499 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,637 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,637 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,679 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,679 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,725 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,726 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,787 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,787 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,839 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,840 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,855 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,855 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,867 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,868 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,903 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,904 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:14,960 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:14,961 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:15,044 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:15,045 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:15,188 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:15,189 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006425
+2022-11-09 23:07:32,832 [5] [INFO ] [GameServer] ：OnTeamLeave::character:1 TeamID:1:1
+2022-11-09 23:07:32,833 [5] [INFO ] [GameServer] ：Leave Team:1:不要总熬夜
+2022-11-09 23:07:32,835 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:32,836 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:07:32,837 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:07:32,839 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:07:35,202 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:35,368 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:35,553 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:35,686 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:35,953 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:35,953 [9] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:07:35,954 [9] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:07:35,955 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006425<1668006452
+2022-11-09 23:07:36,113 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:36,113 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006452<1668006452
+2022-11-09 23:07:36,294 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:36,294 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006452<1668006452
+2022-11-09 23:07:36,451 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:36,452 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006452<1668006452
+2022-11-09 23:07:38,019 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:38,019 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:07:38,021 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:07:38,022 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:07:38,186 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:38,370 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:38,551 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:38,751 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:39,869 [10] [INFO ] [GameServer] ：OnTeamLeave::character:8 TeamID:1:8
+2022-11-09 23:07:39,870 [10] [INFO ] [GameServer] ：Leave Team:8:Archer
+2022-11-09 23:07:39,874 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:07:39,874 [10] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:07:39,875 [10] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:07:41,319 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:41,319 [11] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:07:41,320 [11] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:07:41,320 [11] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:07:41,502 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:41,687 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:41,874 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:42,036 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:07:42,219 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:08:32,771 [21] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-09 23:08:32,795 [21] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-09 23:08:32,796 [21] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-09 23:08:32,797 [21] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:1:不要总熬夜
+2022-11-09 23:08:32,798 [21] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:08:32,800 [21] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:08:32,800 [21] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 23:08:32,802 [21] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 23:08:35,337 [21] [INFO ] [GameServer] ：CharacterLeave： characterID:8:Archer
+2022-11-09 23:08:35,338 [21] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:8
+2022-11-09 23:08:35,338 [21] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:8:Archer
+2022-11-09 23:08:35,339 [21] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 23:08:38,787 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-09 23:08:38,831 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-09 23:08:38,832 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-09 23:08:38,833 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:08:38,833 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:08:38,833 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:08:38,833 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:08:38,833 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:08:38,833 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:08:38,834 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:08:38,834 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:08:38,939 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-09 23:10:28,708 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-09 23:10:28,748 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-09 23:10:29,160 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-09 23:10:29,163 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-09 23:10:29,163 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-09 23:10:29,163 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-09 23:10:29,168 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-09 23:10:29,386 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:10:29,387 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:10:29,389 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:10:29,401 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:10:29,402 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:10:29,414 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:10:30,311 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:10:31,325 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-09 23:10:31,337 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-09 23:11:31,485 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:11:31,489 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-11-09 23:11:31,489 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:11:31,490 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-09 23:11:31,490 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:11:31,490 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-09 23:11:31,491 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:11:31,491 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-09 23:11:31,491 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:11:31,492 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-11-09 23:11:31,492 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:11:31,493 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-09 23:11:31,493 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:11:31,494 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-09 23:11:31,494 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-09 23:11:31,495 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-09 23:12:33,474 [3] [WARN ] [GameServer] ：Client[127.0.0.1:53903]] Connected
+2022-11-09 23:12:33,735 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 23:12:35,505 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 23:12:35,607 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:12:35,608 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;0
+2022-11-09 23:12:35,624 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 23:12:35,625 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:12:42,711 [3] [WARN ] [GameServer] ：Client[127.0.0.1:53916]] Connected
+2022-11-09 23:12:42,755 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-11-09 23:12:44,301 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:8:Archer Map:1
+2022-11-09 23:12:44,304 [6] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:12:44,305 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:8
+2022-11-09 23:12:44,306 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:12:44,306 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:12:44,306 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:12:44,307 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:12:44,308 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:12:44,308 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:12:44,308 [6] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:12:48,635 [7] [INFO ] [GameServer] ：OnTeamInviteRequest::FromId:1 FromName:不要总熬夜 ToID:8 ToName:Archer
+2022-11-09 23:12:48,635 [7] [INFO ] [GameServer] ：ForwardTeamInviteRequest::FromId:1 FromName:不要总熬夜 ToID:8 ToName:Archer
+2022-11-09 23:12:48,639 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:12:49,925 [5] [INFO ] [GameServer] ：OnTeamInviteResponse::character:8 Result:Success FromId:1 ToId:8
+2022-11-09 23:12:49,926 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:12:49,927 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:12:49,927 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:12:49,928 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:12:49,928 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  0<1668006769
+2022-11-09 23:12:49,932 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:12:49,933 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:12:49,935 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:12:49,936 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  0<1668006769
+2022-11-09 23:14:21,464 [5] [INFO ] [GameServer] ：OnTeamLeave::character:1 TeamID:1:1
+2022-11-09 23:14:21,465 [5] [INFO ] [GameServer] ：Leave Team:1:不要总熬夜
+2022-11-09 23:14:21,465 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:14:21,465 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:14:21,467 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:14:21,468 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:14:26,302 [5] [INFO ] [GameServer] ：OnTeamLeave::character:8 TeamID:1:8
+2022-11-09 23:14:26,302 [5] [INFO ] [GameServer] ：Leave Team:8:Archer
+2022-11-09 23:14:26,303 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:14:26,303 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:14:26,304 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:14:41,972 [15] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-09 23:14:41,995 [15] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-09 23:14:41,996 [15] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-09 23:14:41,997 [15] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:1:不要总熬夜
+2022-11-09 23:14:41,997 [15] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:14:41,998 [15] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:14:41,999 [15] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 23:14:42,000 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 23:15:10,847 [17] [WARN ] [GameServer] ：Client[127.0.0.1:54042]] Connected
+2022-11-09 23:15:10,903 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-09 23:15:12,248 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-11-09 23:15:12,248 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:15:12,248 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:15:12,249 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-09 23:15:12,251 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:12,251 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:15:12,252 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:15:12,252 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:15:12,253 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:15:12,253 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:15:12,254 [5] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:15:17,305 [5] [INFO ] [GameServer] ：OnTeamInviteRequest::FromId:1 FromName:不要总熬夜 ToID:8 ToName:Archer
+2022-11-09 23:15:17,305 [5] [INFO ] [GameServer] ：ForwardTeamInviteRequest::FromId:1 FromName:不要总熬夜 ToID:8 ToName:Archer
+2022-11-09 23:15:17,305 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:17,305 [5] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:15:17,306 [5] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:15:18,751 [6] [INFO ] [GameServer] ：OnTeamInviteResponse::character:8 Result:Success FromId:1 ToId:8
+2022-11-09 23:15:18,752 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:不要总熬夜
+2022-11-09 23:15:18,753 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:1:不要总熬夜
+2022-11-09 23:15:18,753 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;10;Wizard Status;0
+2022-11-09 23:15:18,754 [6] [INFO ] [GameServer] ：  1:不要总熬夜 GetFriendInfo;8;Archer Status;1
+2022-11-09 23:15:18,754 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:1:不要总熬夜  0<1668006918
+2022-11-09 23:15:18,755 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:18,755 [6] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:15:18,756 [6] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;1
+2022-11-09 23:15:18,756 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006769<1668006918
+2022-11-09 23:15:30,635 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:30,637 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:30,720 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:30,720 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:30,800 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:30,800 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:30,868 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:30,869 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:30,937 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:30,937 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,015 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,016 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,075 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,076 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,145 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,145 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,207 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,208 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,279 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,280 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,318 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,318 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,350 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,350 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,409 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,410 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,468 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,469 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,482 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,483 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,517 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,518 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,579 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,579 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,642 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,643 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,665 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,666 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,706 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,707 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,766 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,768 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,828 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,828 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,844 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,844 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:31,903 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:31,904 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,011 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,011 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,020 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,020 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,187 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,187 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,303 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,304 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,340 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,340 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,371 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,372 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,435 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,435 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,494 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,494 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,528 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,529 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,551 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,552 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,621 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,621 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,681 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,682 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,704 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,704 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,745 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,747 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,800 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,801 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,812 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,812 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,865 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,865 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,926 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,926 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:32,993 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:32,994 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:33,055 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:33,055 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:33,135 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:33,135 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:33,227 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:33,228 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,433 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,434 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,456 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,456 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,547 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,548 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,587 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,587 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,624 [5] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,625 [5] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,678 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,679 [6] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,747 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,747 [7] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,763 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,763 [8] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,811 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,812 [10] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,922 [9] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,922 [9] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:38,945 [11] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:38,945 [11] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:39,020 [12] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:39,021 [12] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:40,064 [17] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-11-09 23:15:40,068 [17] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-09 23:15:40,068 [17] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:不要总熬夜 : Map:1 Character:1:不要总熬夜
+2022-11-09 23:15:40,069 [17] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:1:不要总熬夜
+2022-11-09 23:15:40,069 [17] [INFO ] [GameServer] ：PostProcess > Character: characterID:8:Archer
+2022-11-09 23:15:40,070 [17] [INFO ] [GameServer] ：PostProcess > FriendManager: character:8:Archer
+2022-11-09 23:15:40,071 [17] [INFO ] [GameServer] ：  8:Archer GetFriendInfo;1;不要总熬夜 Status;0
+2022-11-09 23:15:40,071 [17] [INFO ] [GameServer] ：PostProcess > Team: characterID:8:Archer  1668006918<1668006918
+2022-11-09 23:15:40,072 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 23:15:42,088 [18] [INFO ] [GameServer] ：CharacterLeave： characterID:8:Archer
+2022-11-09 23:15:42,090 [18] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:8
+2022-11-09 23:15:42,091 [18] [INFO ] [GameServer] ：SendCharacterLeaveMap To 8:Archer : Map:1 Character:8:Archer
+2022-11-09 23:15:42,092 [18] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-09 23:15:49,360 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-09 23:15:49,472 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-09 23:15:49,473 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-09 23:15:49,473 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:15:49,473 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:15:49,474 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:15:49,474 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:15:49,474 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:15:49,475 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:15:49,475 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:15:49,475 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-09 23:15:49,580 [1] [INFO ] [GameServer] ：Game Server Exited

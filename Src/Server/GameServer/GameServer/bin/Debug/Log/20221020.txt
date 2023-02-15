@@ -1,0 +1,396 @@
+
+2022-10-20 08:56:27,912 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-20 08:56:27,951 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-20 08:56:28,289 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-20 08:56:28,292 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-20 08:56:28,292 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-20 08:56:28,292 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-20 08:56:28,294 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-20 08:56:28,316 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 08:56:28,316 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 08:56:28,316 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 08:56:28,350 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 08:56:28,350 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 08:56:28,350 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 08:56:29,305 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 08:56:30,303 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 08:56:30,377 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-20 08:56:55,132 [3] [WARN ] [GameServer] ：Client[127.0.0.1:62567]] Connected
+2022-10-20 08:56:55,293 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:user3  Pass:333
+2022-10-20 08:57:05,056 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-20 08:57:07,854 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-20 08:57:07,867 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-20 08:57:07,868 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-20 08:57:07,869 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 08:57:07,869 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 08:57:07,869 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 08:57:07,869 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 08:57:07,869 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 08:57:07,871 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 08:57:07,871 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 08:57:07,871 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 08:57:07,975 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-20 09:02:06,146 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-20 09:02:06,180 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-20 09:02:06,449 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-20 09:02:06,451 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-20 09:02:06,452 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-20 09:02:06,453 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-20 09:02:06,455 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-20 09:02:06,490 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 09:02:06,490 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 09:02:06,491 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 09:02:06,492 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 09:02:06,492 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 09:02:06,493 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 09:02:07,461 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 09:02:07,973 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 09:02:07,987 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-20 09:02:28,792 [3] [WARN ] [GameServer] ：Client[127.0.0.1:63525]] Connected
+2022-10-20 09:02:28,960 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-20 09:02:58,241 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-20 09:03:01,287 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-20 09:03:01,332 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-20 09:03:01,333 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-20 09:03:01,335 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 09:03:01,335 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 09:03:01,335 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 09:03:01,335 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 09:03:01,335 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 09:03:01,335 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 09:03:01,336 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 09:03:01,336 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 09:03:01,438 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-20 22:13:30,126 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-20 22:13:30,167 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-20 22:13:30,717 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-20 22:13:30,720 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-20 22:13:30,720 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-20 22:13:30,721 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-20 22:13:30,723 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-20 22:13:30,739 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:13:30,740 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:13:30,742 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:13:30,770 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:13:30,770 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:13:30,770 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:13:31,736 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:13:32,237 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:13:32,252 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-20 22:14:32,384 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:14:32,393 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-20 22:14:32,393 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:14:32,394 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-20 22:14:32,394 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:14:32,394 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-20 22:14:32,394 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:14:32,394 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-20 22:14:32,395 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:14:32,395 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-20 22:14:32,396 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:14:32,396 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-20 22:14:32,397 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:14:32,398 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-20 22:14:32,398 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:14:32,401 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-20 22:15:36,337 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64096]] Connected
+2022-10-20 22:15:36,497 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-20 22:15:43,994 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:16:13,823 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 22:17:12,972 [12] [INFO ] [GameServer] ：OnMapTeleport: characterID:4:System.Data.Entity.DynamicProxies.TCharacter_18B91D95E377803862C51F607FF5BF836F2C02DD6F646693EDF38F7695267A0F TeleporterId:2
+2022-10-20 22:17:12,974 [12] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 22:17:12,974 [12] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:我是战士 : Map:1 Character:4:我是战士
+2022-10-20 22:18:47,187 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-20 22:18:47,221 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-20 22:18:47,687 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-20 22:18:47,698 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-20 22:18:47,698 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-20 22:18:47,699 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-20 22:18:47,703 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-20 22:18:47,751 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:18:47,753 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:18:47,753 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:18:47,753 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:18:47,753 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:18:47,753 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:18:48,709 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:18:49,722 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:18:49,781 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-20 22:19:07,298 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64390]] Connected
+2022-10-20 22:19:07,458 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-20 22:19:12,228 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:19:12,332 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 22:19:49,994 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:19:49,997 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-20 22:19:49,997 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:19:49,998 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-20 22:19:49,998 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:19:49,999 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-20 22:19:49,999 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:19:50,000 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-10-20 22:19:50,000 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:19:50,002 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-20 22:19:50,002 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:19:50,003 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-20 22:19:50,003 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:19:50,004 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-20 22:19:50,005 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:19:50,005 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-10-20 22:20:02,948 [14] [INFO ] [GameServer] ：CharacterLeave： characterID:4:我是战士
+2022-10-20 22:23:11,068 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-20 22:23:11,110 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-20 22:23:11,423 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-20 22:23:11,440 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-20 22:23:11,452 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-20 22:23:11,453 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-20 22:23:11,460 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-20 22:23:11,643 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:23:11,644 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:23:11,646 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:23:11,648 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:23:11,669 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:23:11,671 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:23:12,481 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:23:12,992 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:23:13,083 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-20 22:23:21,276 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64614]] Connected
+2022-10-20 22:23:21,444 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-20 22:23:28,012 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:23:28,112 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 22:24:06,526 [6] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:24:06,527 [6] [INFO ] [GameServer] ：CharacterLeave： characterID:4:我是战士
+2022-10-20 22:24:06,563 [6] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 22:24:06,564 [6] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:我是战士 : Map:1 Character:4:我是战士
+2022-10-20 22:24:09,885 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:24:09,893 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 22:24:13,221 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:24:13,223 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-20 22:24:13,223 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:24:13,224 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-20 22:24:13,225 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:24:13,226 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-10-20 22:24:13,226 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:24:13,227 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:6
+2022-10-20 22:24:13,227 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:24:13,228 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-20 22:24:13,229 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:24:13,230 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-20 22:24:13,230 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:24:13,231 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-10-20 22:24:13,231 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 22:24:13,232 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:10
+2022-10-20 22:25:02,404 [5] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:02,404 [5] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 22:25:02,409 [5] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 22:25:02,410 [5] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 22:25:06,404 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:25:06,405 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 22:25:10,758 [9] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:25:10,758 [9] [INFO ] [GameServer] ：CharacterLeave： characterID:4:我是战士
+2022-10-20 22:25:10,768 [9] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 22:25:10,768 [9] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:我是战士 : Map:1 Character:4:我是战士
+2022-10-20 22:25:14,145 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:14,145 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 22:25:18,452 [8] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:18,453 [8] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 22:25:18,464 [8] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 22:25:18,465 [8] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 22:25:21,420 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:21,421 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 22:25:24,308 [5] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:24,308 [5] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 22:25:24,318 [5] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 22:25:24,319 [5] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 22:25:32,369 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:25:32,370 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 22:25:37,333 [7] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:25:37,333 [7] [INFO ] [GameServer] ：CharacterLeave： characterID:4:我是战士
+2022-10-20 22:25:37,338 [7] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 22:25:37,339 [7] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:我是战士 : Map:1 Character:4:我是战士
+2022-10-20 22:25:40,465 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:40,466 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 22:25:42,605 [10] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:42,606 [10] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 22:25:42,610 [10] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 22:25:42,610 [10] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 22:25:44,162 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:44,163 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 22:25:46,054 [9] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:46,055 [9] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 22:25:46,057 [9] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 22:25:46,058 [9] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 22:25:47,512 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:47,513 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 22:25:49,500 [10] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 22:25:49,501 [10] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 22:25:49,504 [10] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 22:25:49,505 [10] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 22:25:51,423 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:25:51,424 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 22:25:53,695 [9] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:4:我是战士 Map:1
+2022-10-20 22:25:53,695 [9] [INFO ] [GameServer] ：CharacterLeave： characterID:4:我是战士
+2022-10-20 22:25:53,698 [9] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 22:25:53,699 [9] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:我是战士 : Map:1 Character:4:我是战士
+2022-10-20 22:26:01,113 [13] [INFO ] [GameServer] ：CharacterLeave： characterID:4:我是战士
+2022-10-20 22:26:01,114 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 22:26:01,116 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-20 22:26:18,398 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-20 22:26:18,465 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-20 22:26:18,465 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-20 22:26:18,467 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 22:26:18,467 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 22:26:18,467 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 22:26:18,467 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 22:26:18,467 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 22:26:18,467 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 22:26:18,469 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 22:26:18,470 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 22:26:18,571 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-20 22:54:11,896 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-20 22:54:11,935 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-20 22:54:12,424 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-20 22:54:12,429 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-20 22:54:12,546 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-20 22:54:12,552 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-20 22:54:12,555 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-20 22:54:12,594 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:54:12,595 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:54:12,595 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:54:12,596 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:54:12,598 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:54:12,598 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:54:13,571 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:54:14,570 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:54:14,662 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-20 22:54:17,365 [3] [WARN ] [GameServer] ：Client[127.0.0.1:49974]] Connected
+2022-10-20 22:54:17,528 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-20 22:54:24,644 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:不要总熬夜 Map:1
+2022-10-20 22:54:24,749 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-10-20 22:55:04,982 [3] [INFO ] [GameServer] ：CharacterLeave： characterID:1:不要总熬夜
+2022-10-20 22:59:10,177 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-20 22:59:10,213 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-20 22:59:10,482 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-20 22:59:10,485 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-20 22:59:10,485 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-20 22:59:10,485 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-20 22:59:10,487 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-20 22:59:10,551 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:59:10,556 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:59:10,580 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:59:10,581 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:59:10,581 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:59:10,586 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:59:11,495 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:59:12,005 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-20 22:59:12,019 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-20 22:59:26,819 [3] [WARN ] [GameServer] ：Client[127.0.0.1:50265]] Connected
+2022-10-20 22:59:26,981 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-20 22:59:31,993 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:战士1 Map:1
+2022-10-20 22:59:32,098 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 23:00:12,242 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 23:00:12,244 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-20 23:00:12,244 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 23:00:12,244 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-20 23:00:12,244 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 23:00:12,244 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-20 23:00:12,245 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 23:00:12,245 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-10-20 23:00:12,246 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 23:00:12,247 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-20 23:00:12,247 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 23:00:12,248 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-20 23:00:12,249 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 23:00:12,249 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-20 23:00:12,251 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-20 23:00:12,252 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-10-20 23:02:08,514 [5] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:4:战士1 Map:1
+2022-10-20 23:02:08,515 [5] [INFO ] [GameServer] ：CharacterLeave： characterID:4:战士1
+2022-10-20 23:02:08,543 [5] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 23:02:08,544 [5] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:战士1 : Map:1 Character:4:战士1
+2022-10-20 23:02:15,859 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:战士1 Map:1
+2022-10-20 23:02:15,860 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 23:02:19,712 [6] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:4:战士1 Map:1
+2022-10-20 23:02:19,713 [6] [INFO ] [GameServer] ：CharacterLeave： characterID:4:战士1
+2022-10-20 23:02:19,719 [6] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 23:02:19,719 [6] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:战士1 : Map:1 Character:4:战士1
+2022-10-20 23:02:21,843 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:战士1 Map:1
+2022-10-20 23:02:21,843 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 23:02:24,014 [8] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:4:战士1 Map:1
+2022-10-20 23:02:24,015 [8] [INFO ] [GameServer] ：CharacterLeave： characterID:4:战士1
+2022-10-20 23:02:24,017 [8] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 23:02:24,018 [8] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:战士1 : Map:1 Character:4:战士1
+2022-10-20 23:02:25,834 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:2:banban2 Map:1
+2022-10-20 23:02:25,842 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:2
+2022-10-20 23:02:36,082 [7] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:2:banban2 Map:1
+2022-10-20 23:02:36,083 [7] [INFO ] [GameServer] ：CharacterLeave： characterID:2:banban2
+2022-10-20 23:02:36,088 [7] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:2
+2022-10-20 23:02:36,089 [7] [INFO ] [GameServer] ：SendCharacterLeaveMap To 2:banban2 : Map:1 Character:2:banban2
+2022-10-20 23:02:46,162 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:02:46,175 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 23:02:49,877 [12] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:02:49,877 [12] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 23:02:49,881 [12] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 23:02:49,882 [12] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 23:02:55,508 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:02:55,508 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 23:02:57,881 [9] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:02:57,882 [9] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 23:02:57,886 [9] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 23:02:57,887 [9] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 23:03:01,115 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:2:banban2 Map:1
+2022-10-20 23:03:01,115 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:2
+2022-10-20 23:03:02,963 [9] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:2:banban2 Map:1
+2022-10-20 23:03:02,964 [9] [INFO ] [GameServer] ：CharacterLeave： characterID:2:banban2
+2022-10-20 23:03:02,968 [9] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:2
+2022-10-20 23:03:02,968 [9] [INFO ] [GameServer] ：SendCharacterLeaveMap To 2:banban2 : Map:1 Character:2:banban2
+2022-10-20 23:03:05,208 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:战士1 Map:1
+2022-10-20 23:03:05,209 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 23:03:07,055 [10] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:4:战士1 Map:1
+2022-10-20 23:03:07,055 [10] [INFO ] [GameServer] ：CharacterLeave： characterID:4:战士1
+2022-10-20 23:03:07,060 [10] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 23:03:07,061 [10] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:战士1 : Map:1 Character:4:战士1
+2022-10-20 23:03:08,676 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:03:08,677 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 23:03:10,597 [9] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:03:10,597 [9] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 23:03:10,599 [9] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 23:03:10,599 [9] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 23:03:12,671 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:战士1 Map:1
+2022-10-20 23:03:12,672 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-20 23:03:14,498 [10] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:4:战士1 Map:1
+2022-10-20 23:03:14,499 [10] [INFO ] [GameServer] ：CharacterLeave： characterID:4:战士1
+2022-10-20 23:03:14,502 [10] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-10-20 23:03:14,502 [10] [INFO ] [GameServer] ：SendCharacterLeaveMap To 4:战士1 : Map:1 Character:4:战士1
+2022-10-20 23:03:16,456 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:2:banban2 Map:1
+2022-10-20 23:03:16,456 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:2
+2022-10-20 23:03:18,053 [9] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:2:banban2 Map:1
+2022-10-20 23:03:18,054 [9] [INFO ] [GameServer] ：CharacterLeave： characterID:2:banban2
+2022-10-20 23:03:18,057 [9] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:2
+2022-10-20 23:03:18,057 [9] [INFO ] [GameServer] ：SendCharacterLeaveMap To 2:banban2 : Map:1 Character:2:banban2
+2022-10-20 23:03:19,807 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:03:19,808 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 23:03:21,893 [10] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:03:21,893 [10] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 23:03:21,896 [10] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 23:03:21,897 [10] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 23:03:23,451 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:03:23,451 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-20 23:03:25,188 [9] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:3:Archer2 Map:1
+2022-10-20 23:03:25,188 [9] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 23:03:25,192 [9] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 23:03:25,192 [9] [INFO ] [GameServer] ：SendCharacterLeaveMap To 3:Archer2 : Map:1 Character:3:Archer2
+2022-10-20 23:03:26,738 [17] [INFO ] [GameServer] ：CharacterLeave： characterID:3:Archer2
+2022-10-20 23:03:26,739 [17] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-10-20 23:03:26,740 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-20 23:03:35,272 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-20 23:03:35,353 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-20 23:03:35,354 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-20 23:03:35,354 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 23:03:35,354 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 23:03:35,354 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 23:03:35,354 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 23:03:35,354 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 23:03:35,354 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 23:03:35,356 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 23:03:35,357 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-20 23:03:35,459 [1] [INFO ] [GameServer] ：Game Server Exited

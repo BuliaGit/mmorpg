@@ -1,0 +1,7 @@
+2023-01-25 10:42:35,443 [ 1] INFO  Unity: LoadingManager start
+2023-01-25 10:42:43,807 [ 1] INFO  Unity: OnDestroy NetworkManager.
+2023-01-25 10:42:43,808 [ 1] WARN  Unity: CloseConnection(), errorCode: 1007
+UnityEngine.Debug:LogWarning(Object)
+Network.NetClient:CloseConnection(Int32) (at D:/MyProgram/UnityProjectGit/mmorpgv10.3/mmorpg/Src/Client/Assets/Scripts/Network/NetClient.cs:214)
+Network.NetClient:OnDestroy() (at D:/MyProgram/UnityProjectGit/mmorpgv10.3/mmorpg/Src/Client/Assets/Scripts/Network/NetClient.cs:80)
+

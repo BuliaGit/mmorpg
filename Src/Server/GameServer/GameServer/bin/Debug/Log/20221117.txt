@@ -1,0 +1,500 @@
+
+2022-11-17 12:33:56,821 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-17 12:33:56,879 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-17 12:33:57,450 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-17 12:33:57,453 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-17 12:33:57,454 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-17 12:33:57,454 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-17 12:33:58,035 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-17 12:33:58,093 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 12:33:58,136 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 12:33:58,136 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 12:33:58,136 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 12:33:58,137 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 12:33:58,137 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 12:33:59,076 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 12:34:03,048 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 12:34:03,123 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-17 12:34:54,633 [3] [WARN ] [GameServer] ：Client[127.0.0.1:63944]] Connected
+2022-11-17 12:34:54,805 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 12:34:56,843 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 12:34:56,955 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 12:34:56,957 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:34:56,958 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668659638.03397
+2022-11-17 12:34:57,011 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 12:34:57,012 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:34:57,012 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:35:00,435 [10] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelLocal Message:aw
+2022-11-17 12:35:00,436 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:35:00,437 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:35:03,096 [7] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelLocal Message:dwa
+2022-11-17 12:35:03,097 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:35:03,097 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:35:03,325 [5] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 12:35:03,327 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-17 12:35:03,327 [5] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 12:35:03,327 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-17 12:35:03,327 [5] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 12:35:03,328 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-17 12:35:03,328 [5] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 12:35:03,328 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-17 12:35:03,328 [5] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 12:35:03,328 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-17 12:35:03,329 [5] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 12:35:03,329 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-17 12:35:03,329 [5] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 12:35:03,329 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-17 12:35:03,329 [5] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 12:35:03,329 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-17 12:35:04,558 [10] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelLocal Message:ad
+2022-11-17 12:35:04,558 [10] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:35:04,558 [10] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:35:26,867 [14] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 12:35:26,868 [14] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 12:35:26,869 [14] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 12:35:26,870 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 12:37:29,090 [14] [WARN ] [GameServer] ：Client[127.0.0.1:64279]] Connected
+2022-11-17 12:37:29,150 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 12:37:30,595 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 12:37:30,596 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 12:37:30,596 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:37:30,597 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668659638.03397
+2022-11-17 12:37:30,597 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 12:37:30,598 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:37:30,600 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:40:05,794 [18] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 12:40:05,794 [18] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 12:40:05,795 [18] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 12:40:05,795 [18] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 12:40:23,851 [24] [WARN ] [GameServer] ：Client[127.0.0.1:64638]] Connected
+2022-11-17 12:40:23,915 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 12:40:25,225 [7] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 12:40:25,226 [7] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 12:40:25,227 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:40:25,227 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668659638.03397
+2022-11-17 12:40:25,228 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 12:40:25,228 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:40:25,229 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:40:52,919 [6] [INFO ] [GameServer] ：OnItemBuy:: character:1:Shop:3 ShopItem:1
+2022-11-17 12:40:52,921 [6] [INFO ] [GameServer] ：BuyItem:: character:1:Item:8001 Count:1 Price:1000
+2022-11-17 12:40:52,922 [6] [INFO ] [GameServer] ：[1]AddItem[8001:1]
+2022-11-17 12:40:52,969 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:40:52,969 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:41:16,180 [25] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 12:41:16,181 [25] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 12:41:16,181 [25] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 12:41:16,182 [25] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 12:45:11,930 [25] [WARN ] [GameServer] ：Client[127.0.0.1:64943]] Connected
+2022-11-17 12:45:12,092 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 12:45:13,466 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 12:45:13,467 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 12:45:13,467 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:45:13,467 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668659638.03397
+2022-11-17 12:45:13,468 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 12:45:13,468 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:45:13,468 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:49:06,490 [38] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 12:49:06,491 [38] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 12:49:06,492 [38] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 12:49:06,492 [38] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 12:55:14,376 [38] [WARN ] [GameServer] ：Client[127.0.0.1:65497]] Connected
+2022-11-17 12:55:14,442 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 12:55:16,257 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 12:55:16,257 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 12:55:16,257 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:55:16,257 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668659638.03397
+2022-11-17 12:55:16,258 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 12:55:16,258 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:55:16,258 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:55:26,950 [8] [INFO ] [GameServer] ：OnItemBuy:: character:1:Shop:3 ShopItem:2
+2022-11-17 12:55:26,950 [8] [INFO ] [GameServer] ：BuyItem:: character:1:Item:8002 Count:1 Price:1000
+2022-11-17 12:55:26,951 [8] [INFO ] [GameServer] ：[1]AddItem[8002:1]
+2022-11-17 12:55:26,959 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:55:26,959 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:55:28,527 [8] [INFO ] [GameServer] ：OnItemBuy:: character:1:Shop:3 ShopItem:3
+2022-11-17 12:55:28,528 [8] [INFO ] [GameServer] ：BuyItem:: character:1:Item:8003 Count:1 Price:1000
+2022-11-17 12:55:28,528 [8] [INFO ] [GameServer] ：[1]AddItem[8003:1]
+2022-11-17 12:55:28,532 [8] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 12:55:28,533 [8] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 12:58:49,685 [58] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 12:58:49,686 [58] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 12:58:49,686 [58] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 12:58:49,686 [58] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 13:03:43,429 [66] [WARN ] [GameServer] ：Client[127.0.0.1:49567]] Connected
+2022-11-17 13:03:43,490 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 13:03:45,152 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 13:03:45,152 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 13:03:45,153 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 13:03:45,153 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668659638.03397
+2022-11-17 13:03:45,153 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 13:03:45,153 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 13:03:45,154 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 13:05:00,199 [76] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 13:05:00,200 [76] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 13:05:00,200 [76] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 13:05:00,200 [76] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 13:06:28,232 [76] [WARN ] [GameServer] ：Client[127.0.0.1:49760]] Connected
+2022-11-17 13:06:28,292 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 13:06:30,139 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 13:06:30,140 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 13:06:30,140 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 13:06:30,141 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668659638.03397
+2022-11-17 13:06:30,141 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 13:06:30,142 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 13:06:30,142 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 13:12:46,375 [84] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 13:12:46,375 [84] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 13:12:46,375 [84] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 13:12:46,375 [84] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 13:14:51,797 [18] [WARN ] [GameServer] ：Client[127.0.0.1:50252]] Connected
+2022-11-17 13:14:51,857 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 13:14:53,270 [7] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 13:14:53,271 [7] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 13:14:53,272 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 13:14:53,272 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668659638.03397
+2022-11-17 13:14:53,273 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 13:14:53,273 [7] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 13:14:53,273 [7] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668659638.03397<1668659638.03397
+2022-11-17 13:15:25,424 [91] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 13:15:25,425 [91] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 13:15:25,425 [91] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 13:15:25,425 [91] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 13:15:54,894 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-17 13:15:54,932 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-17 13:15:54,932 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-17 13:15:54,933 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 13:15:54,933 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 13:15:54,933 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 13:15:54,933 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 13:15:54,933 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 13:15:54,933 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 13:15:54,935 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 13:15:54,935 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 13:15:55,039 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-17 14:21:49,418 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-17 14:21:49,453 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-17 14:21:49,801 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-17 14:21:49,817 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-17 14:21:49,817 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-17 14:21:49,817 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-17 14:21:50,299 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-17 14:21:50,308 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:21:50,310 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:21:50,311 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:21:50,311 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:21:50,341 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:21:50,341 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:21:51,316 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:21:52,318 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:21:52,377 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-17 14:22:52,591 [5] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:22:52,595 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-11-17 14:22:52,595 [5] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:22:52,596 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-17 14:22:52,596 [5] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:22:52,596 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-17 14:22:52,596 [5] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:22:52,596 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-17 14:22:52,596 [5] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:22:52,597 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-11-17 14:22:52,597 [5] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:22:52,597 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-17 14:22:52,597 [5] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:22:52,597 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-17 14:22:52,598 [5] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:22:52,598 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-17 14:23:11,946 [3] [WARN ] [GameServer] ：Client[127.0.0.1:52507]] Connected
+2022-11-17 14:23:12,115 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 14:23:13,718 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 14:23:13,820 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 14:23:13,823 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 14:23:13,824 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668666110.29844
+2022-11-17 14:23:13,878 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 14:23:13,879 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 14:23:13,879 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668666110.29844<1668666110.29844
+2022-11-17 14:24:18,684 [15] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 14:24:18,685 [15] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 14:24:18,686 [15] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 14:24:18,687 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 14:33:40,030 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-17 14:33:40,136 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-17 14:33:40,136 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-17 14:33:40,138 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:33:40,138 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:33:40,138 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:33:40,138 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:33:40,138 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:33:40,139 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:33:40,139 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:33:40,140 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:33:40,241 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-17 14:35:41,556 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-17 14:35:41,594 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-17 14:35:41,869 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-17 14:35:41,871 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-17 14:35:41,871 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-17 14:35:41,872 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-17 14:35:42,379 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-17 14:35:42,395 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:35:42,431 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:35:42,431 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:35:42,432 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:35:42,441 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:35:42,448 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:35:43,389 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:35:44,389 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:35:44,465 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-17 14:36:15,155 [3] [WARN ] [GameServer] ：Client[127.0.0.1:53217]] Connected
+2022-11-17 14:36:15,328 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 14:36:17,133 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 14:36:17,241 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 14:36:17,243 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 14:36:17,243 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668666942.37645
+2022-11-17 14:36:17,293 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 14:36:17,294 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 14:36:17,294 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668666942.37645<1668666942.37645
+2022-11-17 14:36:44,621 [5] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:36:44,622 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-17 14:36:44,622 [5] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:36:44,623 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-17 14:36:44,623 [5] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:36:44,623 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-17 14:36:44,623 [5] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:36:44,623 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-17 14:36:44,623 [5] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:36:44,625 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-17 14:36:44,625 [5] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:36:44,625 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-17 14:36:44,625 [5] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:36:44,625 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-17 14:36:44,626 [5] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:36:44,626 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-17 14:38:27,602 [14] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 14:38:27,604 [14] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 14:38:27,605 [14] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 14:38:27,606 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 14:42:57,277 [14] [WARN ] [GameServer] ：Client[127.0.0.1:53553]] Connected
+2022-11-17 14:42:57,340 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 14:42:58,870 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 14:42:58,870 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 14:42:58,871 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 14:42:58,871 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668666942.37645
+2022-11-17 14:42:58,871 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 14:42:58,872 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 14:42:58,872 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668666942.37645<1668666942.37645
+2022-11-17 14:47:06,386 [30] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 14:47:06,386 [30] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 14:47:06,386 [30] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 14:47:06,387 [30] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 14:47:37,690 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-17 14:47:37,746 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-17 14:47:37,747 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-17 14:47:37,749 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:47:37,749 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:47:37,749 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:47:37,749 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:47:37,749 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:47:37,749 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:47:37,749 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:47:37,751 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:47:37,855 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-17 14:50:14,220 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-17 14:50:14,255 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-17 14:50:14,527 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-17 14:50:14,529 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-17 14:50:14,530 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-17 14:50:14,530 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-17 14:50:15,054 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-17 14:50:15,060 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:50:15,060 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:50:15,063 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:50:15,065 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:50:15,067 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:50:15,068 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:50:16,071 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:50:17,070 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 14:50:17,130 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-17 14:50:35,831 [3] [WARN ] [GameServer] ：Client[127.0.0.1:54015]] Connected
+2022-11-17 14:50:36,007 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 14:50:37,717 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 14:50:37,824 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 14:50:37,828 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 14:50:37,828 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668667815.05364
+2022-11-17 14:50:37,881 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 14:50:37,881 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 14:50:37,881 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668667815.05364<1668667815.05364
+2022-11-17 14:51:17,268 [5] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:51:17,270 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-17 14:51:17,270 [5] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:51:17,271 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-17 14:51:17,271 [5] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:51:17,271 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-17 14:51:17,272 [5] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:51:17,272 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-17 14:51:17,272 [5] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:51:17,272 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-17 14:51:17,273 [5] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:51:17,273 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-17 14:51:17,273 [5] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:51:17,273 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-17 14:51:17,273 [5] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 14:51:17,274 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-17 14:54:54,513 [6] [INFO ] [GameServer] ：OnChat::character:1:Channel:ChatChannelLocal Message:dfsa
+2022-11-17 14:54:54,514 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 14:54:54,516 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668667815.05364<1668667815.05364
+2022-11-17 14:55:48,538 [25] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 14:55:48,539 [25] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 14:55:48,540 [25] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 14:55:48,542 [25] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 14:58:10,963 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-17 14:58:10,982 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-17 14:58:10,983 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-17 14:58:10,985 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:58:10,985 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:58:10,985 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:58:10,985 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:58:10,985 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:58:10,985 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:58:10,985 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:58:10,986 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 14:58:11,090 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-17 15:22:38,291 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-17 15:22:38,331 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-17 15:22:38,650 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-17 15:22:38,654 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-17 15:22:38,654 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-17 15:22:38,655 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-17 15:22:39,065 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-17 15:22:39,100 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:22:39,103 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:22:39,105 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:22:39,117 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:22:39,117 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:22:39,117 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:22:40,075 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:22:41,257 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:22:41,424 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-17 15:22:45,623 [3] [WARN ] [GameServer] ：Client[127.0.0.1:55969]] Connected
+2022-11-17 15:22:45,823 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 15:22:47,646 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 15:22:47,751 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 15:22:47,754 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 15:22:47,755 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668669759.06442
+2022-11-17 15:22:47,812 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 15:22:47,813 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 15:22:47,813 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668669759.06442<1668669759.06442
+2022-11-17 15:23:41,657 [5] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:23:41,659 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-17 15:23:41,659 [5] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:23:41,660 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-17 15:23:41,660 [5] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:23:41,661 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-17 15:23:41,661 [5] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:23:41,661 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-17 15:23:41,662 [5] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:23:41,662 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-17 15:23:41,662 [5] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:23:41,662 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-17 15:23:41,663 [5] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:23:41,663 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-17 15:23:41,663 [5] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:23:41,663 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-17 15:24:25,666 [17] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 15:24:25,667 [17] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 15:24:25,668 [17] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 15:24:25,669 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 15:25:23,733 [17] [WARN ] [GameServer] ：Client[127.0.0.1:56309]] Connected
+2022-11-17 15:25:23,798 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 15:25:25,209 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 15:25:25,209 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 15:25:25,209 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 15:25:25,210 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668669759.06442
+2022-11-17 15:25:25,210 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 15:25:25,210 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 15:25:25,211 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668669759.06442<1668669759.06442
+2022-11-17 15:27:35,535 [25] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 15:27:35,535 [25] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 15:27:35,535 [25] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 15:27:35,536 [25] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 15:33:28,929 [25] [WARN ] [GameServer] ：Client[127.0.0.1:56805]] Connected
+2022-11-17 15:33:28,989 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 15:33:30,227 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 15:33:30,227 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 15:33:30,228 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 15:33:30,228 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668669759.06442
+2022-11-17 15:33:30,229 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 15:33:30,230 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 15:33:30,230 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668669759.06442<1668669759.06442
+2022-11-17 15:34:47,424 [39] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 15:34:47,424 [39] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 15:34:47,424 [39] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 15:34:47,426 [39] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 15:37:11,244 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-17 15:37:11,357 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-17 15:37:11,358 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-17 15:37:11,358 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:37:11,358 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:37:11,358 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:37:11,358 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:37:11,358 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:37:11,358 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:37:11,361 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:37:11,361 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:37:11,464 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-11-17 15:38:44,784 [1] [INFO ] [GameServer] ：Game Server Init
+2022-11-17 15:38:44,839 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-11-17 15:38:45,474 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-11-17 15:38:45,489 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-11-17 15:38:45,490 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-11-17 15:38:45,491 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-11-17 15:38:45,978 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-11-17 15:38:45,984 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:38:45,993 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:38:46,004 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:38:46,030 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:38:46,030 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:38:46,034 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:38:46,992 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:38:47,993 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-11-17 15:38:48,052 [1] [WARN ] [GameServer] ：NetService Started
+2022-11-17 15:38:53,112 [3] [WARN ] [GameServer] ：Client[127.0.0.1:57204]] Connected
+2022-11-17 15:38:53,297 [6] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-11-17 15:38:54,703 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:Archer1 Map:1
+2022-11-17 15:38:54,808 [6] [INFO ] [GameServer] ：  1:Archer1 GetFriendInfo;1003;Wizard222 Status;0
+2022-11-17 15:38:54,811 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 15:38:54,811 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  0<1668670725.97645
+2022-11-17 15:38:54,870 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-11-17 15:38:54,871 [6] [INFO ] [GameServer] ：PostProcess > Character: characterID:1:Archer1
+2022-11-17 15:38:54,871 [6] [INFO ] [GameServer] ：PostProcess > Guild: characterID:1:Archer1  1668670725.97645<1668670725.97645
+2022-11-17 15:39:48,212 [5] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:39:48,213 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-11-17 15:39:48,214 [5] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:39:48,214 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-11-17 15:39:48,214 [5] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:39:48,215 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-11-17 15:39:48,215 [5] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:39:48,215 [5] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:5
+2022-11-17 15:39:48,215 [5] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:39:48,216 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-11-17 15:39:48,216 [5] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:39:48,216 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-11-17 15:39:48,216 [5] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:39:48,217 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-11-17 15:39:48,217 [5] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-11-17 15:39:48,217 [5] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:9
+2022-11-17 15:39:54,811 [17] [INFO ] [GameServer] ：CharacterLeave： characterID:1:Archer1
+2022-11-17 15:39:54,812 [17] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-11-17 15:39:54,813 [17] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:Archer1 : Map:1 Character:1:Archer1
+2022-11-17 15:39:54,814 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-11-17 15:40:27,271 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-11-17 15:40:27,315 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-11-17 15:40:27,315 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-11-17 15:40:27,316 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:40:27,316 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:40:27,316 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:40:27,316 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:40:27,316 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:40:27,316 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:40:27,318 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:40:27,318 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-11-17 15:40:27,424 [1] [INFO ] [GameServer] ：Game Server Exited

@@ -1,0 +1,388 @@
+
+2022-10-19 08:47:14,608 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-19 08:47:14,646 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-19 08:47:14,923 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-19 08:47:14,928 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-19 08:47:14,928 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-19 08:47:14,928 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-19 08:47:14,928 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-19 08:47:14,956 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 08:47:14,956 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 08:47:14,956 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 08:47:14,958 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 08:47:14,958 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 08:47:14,958 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 08:47:15,938 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 08:47:16,446 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 08:47:16,510 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-19 08:47:46,413 [3] [WARN ] [GameServer] ：Client[127.0.0.1:53267]] Connected
+2022-10-19 08:47:46,577 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 08:48:16,763 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 08:48:16,767 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-19 08:48:16,767 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 08:48:16,768 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-19 08:48:16,768 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 08:48:16,769 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-19 08:48:16,769 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 08:48:16,770 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-19 08:48:16,771 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 08:48:16,772 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-19 08:48:16,772 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 08:48:16,773 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-19 08:48:16,774 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 08:48:16,776 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-19 08:48:16,777 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 08:48:16,777 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-19 08:49:05,534 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 08:51:34,101 [13] [WARN ] [GameServer] ：Client[127.0.0.1:53844]] Connected
+2022-10-19 08:51:34,156 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 08:51:39,630 [16] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 08:51:58,810 [16] [WARN ] [GameServer] ：Client[127.0.0.1:53868]] Connected
+2022-10-19 08:51:58,862 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 08:52:15,582 [16] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 08:52:19,097 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-19 08:52:19,169 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-19 08:52:19,170 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-19 08:52:19,171 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 08:52:19,171 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 08:52:19,171 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 08:52:19,171 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 08:52:19,171 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 08:52:19,171 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 08:52:19,172 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 08:52:19,173 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 08:52:19,287 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-19 09:02:28,005 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-19 09:02:28,037 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-19 09:02:28,375 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-19 09:02:28,385 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-19 09:02:28,385 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-19 09:02:28,385 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-19 09:02:28,389 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-19 09:02:28,499 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 09:02:28,499 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 09:02:28,553 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 09:02:28,560 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 09:02:28,560 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 09:02:28,561 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 09:02:29,441 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 09:02:29,951 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 09:02:29,981 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-19 09:02:43,122 [3] [WARN ] [GameServer] ：Client[127.0.0.1:54420]] Connected
+2022-10-19 09:02:43,281 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 09:03:30,136 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 09:03:30,140 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-19 09:03:30,140 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 09:03:30,141 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-19 09:03:30,141 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 09:03:30,141 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-19 09:03:30,141 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 09:03:30,142 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-19 09:03:30,143 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 09:03:30,144 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-19 09:03:30,144 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 09:03:30,144 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-19 09:03:30,145 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 09:03:30,145 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-19 09:03:30,146 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 09:03:30,147 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-19 09:03:45,761 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:banban5  Class:Wizard
+2022-10-19 09:04:09,605 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 09:04:19,641 [13] [WARN ] [GameServer] ：Client[127.0.0.1:54500]] Connected
+2022-10-19 09:04:19,694 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 09:05:04,258 [16] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 09:05:06,888 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-19 09:05:06,897 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-19 09:05:06,898 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-19 09:05:06,900 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 09:05:06,900 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 09:05:06,900 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 09:05:06,900 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 09:05:06,900 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 09:05:06,900 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 09:05:06,901 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 09:05:06,901 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 09:05:07,018 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-19 15:37:06,405 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-19 15:37:06,447 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-19 15:37:07,288 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-19 15:37:07,292 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-19 15:37:07,292 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-19 15:37:07,295 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-19 15:37:07,299 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-19 15:37:07,368 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:37:07,369 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:37:07,370 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:37:07,370 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:37:07,370 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:37:07,370 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:37:08,324 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:37:09,321 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:37:09,380 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-19 15:37:39,423 [3] [WARN ] [GameServer] ：Client[127.0.0.1:55000]] Connected
+2022-10-19 15:37:39,592 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 15:38:03,945 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 15:38:09,511 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:38:09,516 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-19 15:38:09,516 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:38:09,517 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-19 15:38:09,517 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:38:09,518 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-19 15:38:09,518 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:38:09,519 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-19 15:38:09,519 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:38:09,520 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-19 15:38:09,520 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:38:09,521 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-19 15:38:09,522 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:38:09,522 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-19 15:38:09,523 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:38:09,523 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-19 15:38:54,554 [13] [WARN ] [GameServer] ：Client[127.0.0.1:55081]] Connected
+2022-10-19 15:38:54,693 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 15:41:11,030 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 15:41:58,278 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-19 15:41:58,345 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-19 15:41:58,346 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-19 15:41:58,347 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:41:58,347 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:41:58,347 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:41:58,347 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:41:58,347 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:41:58,347 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:41:58,348 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:41:58,348 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:41:58,451 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-19 15:46:17,957 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-19 15:46:17,996 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-19 15:46:18,517 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-19 15:46:18,524 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-19 15:46:18,524 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-19 15:46:18,526 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-19 15:46:18,529 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-19 15:46:18,588 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:46:18,588 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:46:18,588 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:46:18,588 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:46:18,590 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:46:18,591 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:46:19,540 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:46:20,049 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:46:20,094 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-19 15:46:34,495 [3] [WARN ] [GameServer] ：Client[127.0.0.1:55810]] Connected
+2022-10-19 15:46:34,657 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 15:47:03,022 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 15:47:06,240 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-19 15:47:06,331 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-19 15:47:06,331 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-19 15:47:06,333 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:47:06,333 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:47:06,333 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:47:06,333 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:47:06,333 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:47:06,333 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:47:06,335 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:47:06,335 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:47:06,439 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-19 15:51:36,299 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-19 15:51:36,334 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-19 15:51:36,619 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-19 15:51:36,622 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-19 15:51:36,622 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-19 15:51:36,623 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-19 15:51:36,625 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-19 15:51:36,705 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:51:36,705 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:51:36,706 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:51:36,706 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:51:36,707 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:51:36,710 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:51:37,639 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:51:38,631 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 15:51:38,737 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-19 15:51:54,031 [3] [WARN ] [GameServer] ：Client[127.0.0.1:56106]] Connected
+2022-10-19 15:51:54,193 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 15:52:16,665 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 15:52:38,866 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:58:46,739 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-19 15:58:46,739 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:58:46,740 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-19 15:58:46,740 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:58:46,740 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-19 15:58:46,740 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:58:46,742 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-19 15:58:46,744 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:58:46,747 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-19 15:58:46,749 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:58:46,753 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-19 15:58:46,755 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:58:46,757 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-19 15:58:46,758 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 15:58:46,761 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-19 15:58:48,114 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-19 15:58:48,198 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-19 15:58:48,198 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-19 15:58:48,199 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:58:48,199 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:58:48,199 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:58:48,199 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:58:48,199 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:58:48,199 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:58:48,199 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:58:48,200 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 15:58:48,304 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-19 16:12:44,701 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-19 16:12:44,740 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-19 16:12:45,125 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-19 16:12:45,140 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-19 16:12:45,142 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-19 16:12:45,144 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-19 16:12:45,157 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-19 16:12:45,355 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:12:45,355 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:12:45,355 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:12:45,356 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:12:45,357 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:12:45,357 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:12:46,187 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:12:47,179 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:12:47,255 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-19 16:13:05,244 [3] [WARN ] [GameServer] ：Client[127.0.0.1:57220]] Connected
+2022-10-19 16:13:05,407 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 16:13:47,370 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:13:47,374 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-19 16:13:47,375 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:13:47,375 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-19 16:13:47,376 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:13:47,376 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-19 16:13:47,377 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:13:47,377 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-19 16:13:47,377 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:13:47,378 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-19 16:13:47,378 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:13:47,379 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-19 16:13:47,380 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:13:47,380 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-19 16:13:47,381 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:13:47,382 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-19 16:14:07,392 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:banban4 Map:1
+2022-10-19 16:14:07,502 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-19 16:15:26,980 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:术士1  Class:Wizard
+2022-10-19 16:15:27,064 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:banban3 Map:1
+2022-10-19 16:15:27,073 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-19 16:17:33,620 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-19 16:17:33,654 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-19 16:17:33,947 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-19 16:17:33,954 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-19 16:17:33,955 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-19 16:17:33,956 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-19 16:17:33,966 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-19 16:17:34,032 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:17:34,033 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:17:34,033 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:17:34,033 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:17:34,037 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:17:34,038 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:17:34,997 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:17:35,991 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:17:36,052 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-19 16:17:51,330 [3] [WARN ] [GameServer] ：Client[127.0.0.1:57481]] Connected
+2022-10-19 16:17:51,487 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 16:18:36,259 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:18:36,263 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-19 16:18:36,263 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:18:36,264 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-19 16:18:36,264 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:18:36,264 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-19 16:18:36,265 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:18:36,265 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-19 16:18:36,266 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:18:36,267 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-19 16:18:36,268 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:18:36,269 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-19 16:18:36,269 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:18:36,270 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-19 16:18:36,271 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:18:36,272 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-19 16:18:39,150 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:ADC1  Class:Archer
+2022-10-19 16:18:39,208 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:banban4 Map:1
+2022-10-19 16:18:39,303 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-19 16:19:00,687 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:3:banban3 Map:1
+2022-10-19 16:19:00,691 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-10-19 16:20:31,337 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-19 16:20:31,373 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-19 16:20:31,749 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-19 16:20:31,753 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-19 16:20:31,753 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-19 16:20:31,754 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-19 16:20:31,759 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-19 16:20:31,797 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:20:31,903 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:20:31,904 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:20:31,909 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:20:31,910 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:20:31,915 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:20:32,783 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:20:33,778 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 16:20:33,870 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-19 16:20:46,930 [3] [WARN ] [GameServer] ：Client[127.0.0.1:57644]] Connected
+2022-10-19 16:20:47,087 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:
+2022-10-19 16:20:53,139 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:1111
+2022-10-19 16:21:08,631 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:user2  Pass:222
+2022-10-19 16:21:18,814 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user2  Pass:222
+2022-10-19 16:21:34,020 [4] [INFO ] [GameServer] ：Map[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:21:34,024 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:1
+2022-10-19 16:21:34,025 [4] [INFO ] [GameServer] ：Map[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:21:34,025 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:2
+2022-10-19 16:21:34,026 [4] [INFO ] [GameServer] ：Map[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:21:34,026 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:3
+2022-10-19 16:21:34,027 [4] [INFO ] [GameServer] ：Map[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:21:34,028 [4] [INFO ] [GameServer] ：MonsterEnter: Map:2 monsterId:4
+2022-10-19 16:21:34,029 [4] [INFO ] [GameServer] ：Map[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:21:34,029 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:5
+2022-10-19 16:21:34,030 [4] [INFO ] [GameServer] ：Map[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:21:34,031 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:6
+2022-10-19 16:21:34,031 [4] [INFO ] [GameServer] ：Map[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:21:34,033 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:7
+2022-10-19 16:21:34,033 [4] [INFO ] [GameServer] ：Map[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-10-19 16:21:34,034 [4] [INFO ] [GameServer] ：MonsterEnter: Map:3 monsterId:8
+2022-10-19 16:21:42,647 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 16:21:54,121 [14] [WARN ] [GameServer] ：Client[127.0.0.1:57706]] Connected
+2022-10-19 16:21:54,175 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 16:21:56,357 [16] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 16:22:22,805 [16] [WARN ] [GameServer] ：Client[127.0.0.1:57741]] Connected
+2022-10-19 16:22:22,863 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 16:23:41,168 [16] [WARN ] [GameServer] ：Client[] Disconnected
+2022-10-19 16:23:47,189 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-19 16:23:47,297 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-19 16:23:47,297 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-19 16:23:47,299 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 16:23:47,299 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 16:23:47,300 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 16:23:47,299 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 16:23:47,300 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 16:23:47,299 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 16:23:47,300 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 16:23:47,300 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-19 16:23:47,402 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-19 20:47:15,341 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-19 20:47:15,383 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-19 20:47:15,646 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-19 20:47:15,649 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-19 20:47:15,649 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-19 20:47:15,649 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-19 20:47:15,652 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-19 20:47:15,659 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 20:47:15,659 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 20:47:15,660 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 20:47:15,660 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 20:47:15,663 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 20:47:15,692 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 20:47:16,666 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 20:47:17,661 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-19 20:47:17,720 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-19 20:47:32,101 [3] [WARN ] [GameServer] ：Client[127.0.0.1:55637]] Connected
+2022-10-19 20:47:32,265 [5] [INFO ] [GameServer] ：UserLoginRequest: User:user1  Pass:111
+2022-10-19 20:47:45,057 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:4:banban4 Map:1
+2022-10-19 20:47:45,160 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-10-19 20:47:57,026 [14] [INFO ] [GameServer] ：CharacterLeave： characterID:4:banban4

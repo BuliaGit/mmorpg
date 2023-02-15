@@ -1,0 +1,121 @@
+
+2022-12-05 12:48:29,714 [1] [INFO ] [GameServer] £ºGame Server Init
+2022-12-05 12:48:29,794 [1] [INFO ] [GameServer] £ºDataManager > DataManager()
+2022-12-05 12:48:30,650 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:1:²¼ÁÖÕò
+2022-12-05 12:48:30,653 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:2:ÂäÈÕÉ­ÁÖ
+2022-12-05 12:48:30,654 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:3:Ò°Íâ2
+2022-12-05 12:48:30,654 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:4:ÂäÈÕ¿Õ¼ä
+2022-12-05 12:48:31,348 [1] [WARN ] [GameServer] £ºStarting Listener...
+2022-12-05 12:48:31,592 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-05 12:48:31,633 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-05 12:48:31,639 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-05 12:48:31,646 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-05 12:48:31,646 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-05 12:48:31,651 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-05 12:48:32,557 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-05 12:48:33,562 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2022-12-05 12:48:33,653 [1] [WARN ] [GameServer] £ºNetService Started
+2022-12-05 12:49:33,780 [5] [INFO ] [GameServer] £ºMap[2] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-05 12:49:33,789 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:2 monsterId:1
+2022-12-05 12:49:33,789 [5] [INFO ] [GameServer] £ºMap[2] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-05 12:49:33,789 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:2 monsterId:2
+2022-12-05 12:49:33,789 [5] [INFO ] [GameServer] £ºMap[2] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-05 12:49:33,789 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:2 monsterId:3
+2022-12-05 12:49:33,789 [5] [INFO ] [GameServer] £ºMap[2] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-05 12:49:33,789 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:2 monsterId:4
+2022-12-05 12:49:33,789 [5] [INFO ] [GameServer] £ºMap[3] Spawn[1:Mon:1001,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-05 12:49:33,789 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:3 monsterId:5
+2022-12-05 12:49:33,796 [5] [INFO ] [GameServer] £ºMap[3] Spawn[2:Mon:1002,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-05 12:49:33,796 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:3 monsterId:6
+2022-12-05 12:49:33,796 [5] [INFO ] [GameServer] £ºMap[3] Spawn[3:Mon:1003,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-05 12:49:33,796 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:3 monsterId:7
+2022-12-05 12:49:33,796 [5] [INFO ] [GameServer] £ºMap[3] Spawn[4:Mon:1005,lv:Common.Data.SpawnRuleDefine] At Point;Common.Data.SpawnRuleDefine
+2022-12-05 12:49:33,796 [5] [INFO ] [GameServer] £ºMonsterEnter: Map:3 monsterId:8
+2022-12-05 12:50:13,626 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:53634]] Connected
+2022-12-05 12:50:13,813 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:user1  Pass:11
+2022-12-05 12:50:22,887 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:user1  Pass:111
+2022-12-05 12:50:28,096 [7] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:Acher1 Map:1
+2022-12-05 12:50:28,204 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:50:28,215 [7] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2022-12-05 12:50:28,216 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:51:06,744 [7] [INFO ] [GameServer] £ºOnMapTeleport: characterID:1:System.Data.Entity.DynamicProxies.TCharacter_7E56C06723E4687201917DE2E4E83B60CD65DBE580952F84B7219EEB2CB4EE95 TeleporterId:1
+2022-12-05 12:51:06,744 [7] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:1
+2022-12-05 12:51:06,745 [7] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 1:Acher1 : Map:1 Character:1:Acher1
+2022-12-05 12:51:06,745 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:51:06,746 [7] [INFO ] [GameServer] £ºCharacterEnter: Map:2 characterId:1
+2022-12-05 12:51:06,746 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:51:24,472 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:9 target:2 pos:SkillBridge.Message.NVector3
+2022-12-05 12:51:24,473 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:9,target:2,pos:SkillBridge.Message.NVector3
+2022-12-05 12:51:24,482 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-05 12:51:24,483 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:51:25,240 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[1]
+2022-12-05 12:51:25,348 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-05 12:51:45,360 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:9 target:2 pos:SkillBridge.Message.NVector3
+2022-12-05 12:51:45,361 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:9,target:2,pos:SkillBridge.Message.NVector3
+2022-12-05 12:51:45,390 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-05 12:51:45,390 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:51:46,148 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[1]
+2022-12-05 12:51:46,258 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-05 12:51:49,740 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster:9 target:2 pos:SkillBridge.Message.NVector3
+2022-12-05 12:51:49,740 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:301,caster:9,target:2,pos:SkillBridge.Message.NVector3
+2022-12-05 12:51:49,748 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2022-12-05 12:51:49,748 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:51:50,513 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[1]
+2022-12-05 12:51:50,622 [5] [INFO ] [GameServer] £ºSKill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2022-12-05 12:51:54,451 [7] [INFO ] [GameServer] £ºOnSkillCast: skill:302 caster:9 target:2 pos:SkillBridge.Message.NVector3
+2022-12-05 12:51:54,452 [7] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:302,caster:9,target:2,pos:SkillBridge.Message.NVector3
+2022-12-05 12:51:54,536 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].Cast Result:[Ok] Status:Casting
+2022-12-05 12:51:54,536 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:51:55,077 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateCasting Finish
+2022-12-05 12:51:55,402 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[1]
+2022-12-05 12:51:55,513 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].UpdateSkill Finish
+2022-12-05 12:52:07,231 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:302 caster:9 target:2 pos:SkillBridge.Message.NVector3
+2022-12-05 12:52:07,231 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:302,caster:9,target:2,pos:SkillBridge.Message.NVector3
+2022-12-05 12:52:07,261 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].Cast Result:[Ok] Status:Casting
+2022-12-05 12:52:07,262 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:52:07,804 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateCasting Finish
+2022-12-05 12:52:08,131 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[1]
+2022-12-05 12:52:08,239 [5] [INFO ] [GameServer] £ºSKill[Á÷Ñª¼ý].UpdateSkill Finish
+2022-12-05 12:52:14,685 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:304 caster:9 target:2 pos:SkillBridge.Message.NVector3
+2022-12-05 12:52:14,685 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleMessage:skill:304,caster:9,target:2,pos:SkillBridge.Message.NVector3
+2022-12-05 12:52:14,792 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].Cast Result:[Ok] Status:Casting
+2022-12-05 12:52:14,792 [5] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:52:15,340 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].UpdateCasting Finish
+2022-12-05 12:52:15,998 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[1]
+2022-12-05 12:52:16,650 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[2]
+2022-12-05 12:52:17,408 [5] [INFO ] [GameServer] £ºSkill[Á¬Éä].DoHit[3]
+2022-12-05 12:52:17,516 [5] [INFO ] [GameServer] £ºSKill[Á¬Éä].UpdateSkill Finish
+2022-12-05 12:52:28,261 [6] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:1:Acher1 Map:2
+2022-12-05 12:52:28,261 [6] [INFO ] [GameServer] £ºCharacterLeave£º characterID:1:Acher1
+2022-12-05 12:52:28,262 [6] [INFO ] [GameServer] £ºCharacterLeave: Map:2 characterId:1
+2022-12-05 12:52:28,263 [6] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 1:Acher1 : Map:2 Character:1:Acher1
+2022-12-05 12:52:28,263 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:52:28,264 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:52:38,922 [6] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:Warrior1  Class:Warrior
+2022-12-05 12:52:39,002 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:52:39,022 [7] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:3:Warrior1 Map:1
+2022-12-05 12:52:39,023 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:52:39,023 [7] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:3
+2022-12-05 12:52:39,024 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:52:53,537 [6] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:Warrior1  Class:Warrior
+2022-12-05 12:52:53,548 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:52:53,567 [7] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:3:Warrior1 Map:1
+2022-12-05 12:52:53,567 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:52:53,568 [7] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:3
+2022-12-05 12:52:53,568 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:53:00,195 [6] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:Warrior1  Class:Warrior
+2022-12-05 12:53:00,258 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:53:00,278 [7] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:3:Warrior1 Map:1
+2022-12-05 12:53:00,278 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:53:00,278 [7] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:3
+2022-12-05 12:53:00,278 [7] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:53:01,098 [8] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:Warrior1  Class:Warrior
+2022-12-05 12:53:01,110 [8] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:53:01,135 [6] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:3:Warrior1 Map:1
+2022-12-05 12:53:01,136 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:53:01,137 [6] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:3
+2022-12-05 12:53:01,137 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:3:Warrior1
+2022-12-05 12:53:03,189 [6] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:Acher1 Map:1
+2022-12-05 12:53:03,190 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1
+2022-12-05 12:53:03,190 [6] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2022-12-05 12:53:03,191 [6] [INFO ] [GameServer] £ºPostProcess > Character: characterID:1:Acher1

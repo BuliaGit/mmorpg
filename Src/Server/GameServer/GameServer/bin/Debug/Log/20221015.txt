@@ -1,0 +1,94 @@
+
+2022-10-15 22:22:10,196 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-15 22:22:10,258 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-15 22:26:07,181 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-15 22:26:07,212 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-15 22:30:05,891 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-15 22:30:05,924 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-15 22:31:17,295 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-15 22:31:17,328 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-15 22:31:17,675 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-15 22:31:17,678 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-15 22:31:17,679 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-15 22:31:17,679 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-15 22:31:17,679 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-15 22:31:17,682 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-15 22:31:17,807 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:31:17,807 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:31:17,810 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:31:17,810 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:31:17,813 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:31:17,821 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:31:18,690 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:31:19,693 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:31:19,784 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-15 22:31:39,542 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-15 22:31:39,589 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-15 22:31:39,589 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-15 22:31:39,591 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:31:39,591 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:31:39,591 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:31:39,591 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:31:39,591 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:31:39,591 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:31:39,592 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:31:39,593 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:31:39,695 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-15 22:47:39,238 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-15 22:47:39,285 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-15 22:47:39,613 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-15 22:47:39,613 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-15 22:47:39,613 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-15 22:47:39,613 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-15 22:47:39,613 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-15 22:47:39,613 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-15 22:47:39,628 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:47:39,628 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:47:39,628 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:47:39,644 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:47:39,644 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:47:39,644 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:47:40,618 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:47:41,126 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 22:47:41,173 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-15 22:48:03,710 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-15 22:48:03,774 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-15 22:48:03,774 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-15 22:48:03,774 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:48:03,774 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:48:03,774 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:48:03,774 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:48:03,774 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:48:03,774 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:48:03,774 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:48:03,774 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 22:48:03,883 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-10-15 23:19:38,758 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-15 23:19:38,814 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-15 23:19:39,087 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-15 23:19:39,089 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-15 23:19:39,089 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-15 23:19:39,089 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-15 23:19:39,090 [1] [INFO ] [GameServer] ：MapManager.Init > Map:5:竞技场
+2022-10-15 23:19:39,092 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-15 23:19:39,134 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 23:19:39,134 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 23:19:39,134 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 23:19:39,134 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 23:19:39,134 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 23:19:39,135 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 23:19:40,107 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 23:19:41,343 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-15 23:19:41,446 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-15 23:19:43,919 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-10-15 23:19:43,924 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-10-15 23:19:43,925 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-10-15 23:19:43,926 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 23:19:43,926 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 23:19:43,926 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 23:19:43,926 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 23:19:43,926 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 23:19:43,928 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 23:19:43,928 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 23:19:43,928 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-10-15 23:19:44,030 [1] [INFO ] [GameServer] ：Game Server Exited
