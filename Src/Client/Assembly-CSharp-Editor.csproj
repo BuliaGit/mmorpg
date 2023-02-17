@@ -93,19 +93,19 @@
      <Compile Include="Assets\ThirdParty\Candlelight\Editor\Candlelight\Library\Utilities\ReflectionX.cs" />
      <Compile Include="Assets\ThirdParty\Candlelight\Editor\Candlelight\Library\Utilities\SerializedPropertyX.cs" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Program Files/Unity/2018.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -357,19 +357,19 @@
  <HintPath>D:/Program Files/Unity/2018.2.3f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Common">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Assets/References/Common.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Assets/References/Common.dll</HintPath>
  </Reference>
  <Reference Include="log4net">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Assets/References/log4net.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Assets/References/log4net.dll</HintPath>
  </Reference>
  <Reference Include="protobuf-net">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Assets/References/protobuf-net.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Assets/References/protobuf-net.dll</HintPath>
  </Reference>
  <Reference Include="Protocol">
- <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.2/mmorpg/Src/Client/Assets/References/Protocol.dll</HintPath>
+ <HintPath>D:/MyProgram/UnityProjectGit/mmorpgv11.3/mmorpg/Src/Client/Assets/References/Protocol.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Users/18148/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>

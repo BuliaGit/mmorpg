@@ -1,7 +1,749 @@
-2023-01-25 10:42:35,443 [ 1] INFO  Unity: LoadingManager start
-2023-01-25 10:42:43,807 [ 1] INFO  Unity: OnDestroy NetworkManager.
-2023-01-25 10:42:43,808 [ 1] WARN  Unity: CloseConnection(), errorCode: 1007
+2023-02-17 11:02:02,195 [ 1] INFO  Unity: LoadingManager start
+2023-02-17 11:02:20,660 [ 1] INFO  Unity: UserLoginRequest::user :user1 psw:111
+2023-02-17 11:02:20,662 [ 1] INFO  Unity: ConnectToServer() Start 
+2023-02-17 11:02:20,667 [ 1] INFO  Unity: DoConnect
+2023-02-17 11:02:20,669 [ 1] INFO  Unity: NetClient.DoConnect on 127.0.0.1:8000
+2023-02-17 11:02:20,675 [ 1] INFO  Unity: Connect [0] to server 127.0.0.1:8000
+
+2023-02-17 11:02:20,680 [ 1] INFO  Unity: LoadingMesager::OnGameServerConnect :0 reason:Success
+2023-02-17 11:02:21,312 [ 1] INFO  Unity: OnLogin:Success [None]
+2023-02-17 11:02:21,549 [ 1] INFO  Unity: LoadLevel: CharSelect
+2023-02-17 11:02:23,482 [ 1] INFO  Unity: UserGameEnterRequest::characterId :0
+2023-02-17 11:02:23,703 [ 1] INFO  Unity: OnGameEnter:Success [None]
+2023-02-17 11:02:23,706 [ 1] INFO  Unity: ItemManager:Init(Id:1,Count:20)
+2023-02-17 11:02:23,706 [ 1] INFO  Unity: ItemManager:Init(Id:2,Count:20)
+2023-02-17 11:02:23,707 [ 1] INFO  Unity: ItemManager:Init(Id:8001,Count:1)
+2023-02-17 11:02:23,721 [ 1] INFO  Unity: OnMapCharacterEnter:Map:1 Count:1
+2023-02-17 11:02:23,731 [ 1] INFO  Unity: AddCharacter:1:Acher1 Map:1 Entity:(1:pos:(5000,4000,820),dir:(100,0,0),spd:0
+2023-02-17 11:02:23,734 [ 1] INFO  Unity: LoadLevel: MainCity
+2023-02-17 11:02:25,564 [ 1] WARN  Unity: GameObjectManager[-286926] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-02-17 11:02:25,579 [ 1] WARN  Unity: MainPlayerCamera[-286790] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-02-17 11:02:25,580 [ 1] WARN  Unity: Managers.UIWorldEleManagerMe[-283682] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-02-17 11:02:25,581 [ 1] WARN  Unity: UIMainMe[105210] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-02-17 11:02:25,662 [ 1] WARN  Unity: MinimapManager.Instance.Minimap[107986] Set
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+Managers.MinimapManager:set_Minimap(UIMiniMapMe) (at Assets/Scripts/Managers/MinimapManager.cs:18)
+UIMiniMapMe:Start() (at Assets/Scripts/UI/Me/UIMiniMapMe.cs:20)
+
+2023-02-17 11:02:50,966 [ 1] INFO  Unity: TeleporterObject: Character[Acher1] Enter TeleporterObject[3:主城传入点1]
+2023-02-17 11:03:08,374 [ 1] INFO  Unity: TeleporterObject: Character[Acher1] Enter TeleporterObject[1:主城->野外]
+2023-02-17 11:03:08,375 [ 1] INFO  Unity: MapTeleportRequest :teleporterID:1
+2023-02-17 11:03:08,394 [ 1] INFO  Unity: OnMapCharacterLeave: CharID:1
+2023-02-17 11:03:08,396 [ 1] INFO  Unity: RemoveCharacter:1
+2023-02-17 11:03:08,402 [ 1] INFO  Unity: SetSendChannel:Local
+2023-02-17 11:03:08,403 [ 1] INFO  Unity: OnMapCharacterEnter:Map:2 Count:5
+2023-02-17 11:03:08,405 [ 1] INFO  Unity: AddCharacter:1:Acher1 Map:2 Entity:(1:pos:(2976,4061,46),dir:(100,0,0),spd:300
+2023-02-17 11:03:08,414 [ 1] INFO  Unity: AddCharacter:0:恶鬼 Map:2 Entity:(2:pos:(5887,1573,7),dir:(9,100,0),spd:0
+2023-02-17 11:03:08,443 [ 1] INFO  Unity: AddCharacter:0:山丘巨人 Map:2 Entity:(3:pos:(5540,1682,4),dir:(20,98,0),spd:0
+2023-02-17 11:03:08,962 [ 1] INFO  Unity: AddCharacter:0:小恶魔 Map:2 Entity:(4:pos:(4775,2865,14),dir:(-30,95,0),spd:0
+2023-02-17 11:03:08,983 [ 1] INFO  Unity: AddCharacter:0:死神 Map:2 Entity:(5:pos:(5683,4173,0),dir:(28,-96,0),spd:0
+2023-02-17 11:03:09,441 [ 1] INFO  Unity: LoadLevel: Map01
+2023-02-17 11:03:09,796 [ 1] WARN  Unity: Failed to create agent because it is not close enough to the NavMesh
+UnityEngine.GameObject:AddComponent()
+PlayerInputController:Start() (at Assets/Scripts/GameObject/PlayerInputController.cs:61)
+
+2023-02-17 11:03:09,797 [ 1] INFO  Unity: Character_1_Acher1_1 OnDestroy :ID:1 POS:(2976, 4061, 46) DIR:(100, 0, 0) SPD:300 
+2023-02-17 11:03:10,748 [ 1] INFO  Unity: TeleporterObject: Character[Acher1] Enter TeleporterObject[6:野外传入点]
+2023-02-17 11:03:14,491 [ 1] INFO  Unity: BattleManager.SetTarget:[4:小恶魔]
+2023-02-17 11:03:16,111 [ 1] INFO  Unity: BattleManager.SetTarget:[3:山丘巨人]
+2023-02-17 11:03:18,565 [ 1] INFO  Unity: BattleManager.SetTarget:[3:山丘巨人]
+2023-02-17 11:03:19,274 [ 1] INFO  Unity: SendSkillCast: skill:301 caster:1 target:3 pos:SkillBridge.Message.NVector3
+2023-02-17 11:03:19,391 [ 1] INFO  Unity: OnSkillCast: skill:301 caster:1 target:3 pos:(0,0,0) result:Success
+2023-02-17 11:03:19,421 [ 1] INFO  Unity: AnimationEventController:PlayEffect:Archer:EFX_Archer_AtkA_B
+2023-02-17 11:03:19,422 [ 1] INFO  Unity: PlayEffect:Character_1_Acher1_1:EFX_Archer_AtkA_B
+2023-02-17 11:03:20,168 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:20,206 [ 1] INFO  Unity: Skill[普通攻击].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:山丘巨人
+2023-02-17 11:03:20,939 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:20,941 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:20,942 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:20,944 [ 1] INFO  Unity: DoDamage:山丘巨人 DMG:1 CRI:False
+2023-02-17 11:03:21,043 [ 1] INFO  Unity: Skill[普通攻击].UpdateSkill Finish
+2023-02-17 11:03:21,463 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:21,494 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:22,361 [ 1] INFO  Unity: OnSkillCast: skill:10023 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:22,362 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:22,468 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:22,469 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:22,983 [ 1] INFO  Unity: Skill[重击].UpdateSkill Finish
+2023-02-17 11:03:23,017 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:23,124 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:23,503 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:23,557 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:23,644 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:23,644 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:24,976 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:24,978 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:25,502 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:25,529 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:25,530 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:25,531 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:25,717 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:25,717 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:26,179 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:26,566 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:26,611 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:27,766 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:27,766 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:28,574 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:28,576 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:29,011 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:29,012 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:29,128 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:29,128 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:29,224 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:29,543 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:29,549 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:29,604 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:29,659 [ 1] INFO  Unity: OnSkillCast: skill:10023 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:29,660 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:29,661 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:30,284 [ 1] INFO  Unity: Skill[重击].UpdateSkill Finish
+2023-02-17 11:03:30,312 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:31,182 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:31,183 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:31,621 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:31,622 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:32,269 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:32,550 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:32,550 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:32,645 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:32,706 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:33,036 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:33,037 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:33,563 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:33,580 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:34,598 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:34,599 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:34,663 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:34,664 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:35,318 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:35,702 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:35,752 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:35,953 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:35,954 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:36,739 [ 1] INFO  Unity: OnSkillCast: skill:10023 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:36,741 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:37,361 [ 1] INFO  Unity: Skill[重击].UpdateSkill Finish
+2023-02-17 11:03:37,393 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:37,500 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:37,501 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:37,717 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:37,719 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:38,024 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:38,043 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:38,044 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:38,044 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:38,372 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:38,742 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:38,807 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:40,096 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:40,096 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:40,770 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:40,772 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:41,426 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:41,452 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:41,453 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:41,534 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:41,534 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:41,803 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:41,860 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:42,065 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:42,076 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:43,508 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:43,508 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:43,813 [ 1] INFO  Unity: OnSkillCast: skill:10023 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:43,814 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:43,928 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:43,938 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:44,442 [ 1] INFO  Unity: Skill[重击].UpdateSkill Finish
+2023-02-17 11:03:44,467 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:44,576 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:44,869 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:44,869 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:44,963 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:45,009 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:45,550 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:45,551 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:46,082 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:46,097 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:46,923 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:46,924 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:46,964 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:46,965 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:47,616 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:48,003 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:48,048 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:48,279 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:48,280 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:49,575 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:49,576 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:50,004 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:50,006 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:50,104 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:50,117 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:50,347 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:50,348 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:50,664 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:50,880 [ 1] INFO  Unity: OnSkillCast: skill:10023 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:50,881 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:51,044 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:51,102 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:51,504 [ 1] INFO  Unity: Skill[重击].UpdateSkill Finish
+2023-02-17 11:03:51,533 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:52,407 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:52,408 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:53,060 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:53,062 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:53,606 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:53,607 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:53,715 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:53,761 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:53,761 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:54,084 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:54,142 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:54,154 [ 1] INFO  Unity: OnSkillHit:count:2
+2023-02-17 11:03:55,813 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:55,814 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:03:56,114 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:56,115 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:56,764 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:57,143 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:03:57,175 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:57,176 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:57,195 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:57,630 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:57,632 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:58,169 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:03:58,172 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:58,286 [ 1] INFO  Unity: OnSkillCast: skill:10023 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:58,286 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:58,921 [ 1] INFO  Unity: Skill[重击].UpdateSkill Finish
+2023-02-17 11:03:58,948 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:03:59,150 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:03:59,151 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:03:59,246 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:03:59,247 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:03:59,802 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:00,182 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:04:00,239 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:01,300 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:04:01,301 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:04:01,657 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:04:01,668 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:04:02,185 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:04:02,207 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:04:02,208 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:04:02,209 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:02,659 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:04:02,660 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:04:02,852 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:03,246 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:04:03,289 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:03,963 [ 1] INFO  Unity: BattleManager.SetTarget:[3:山丘巨人]
+2023-02-17 11:04:03,965 [ 1] INFO  Unity: BattleManager.SetPosition:[5669,2239,0]
+2023-02-17 11:04:03,965 [ 1] INFO  Unity: SendSkillCast: skill:303 caster:1 target:3 pos:SkillBridge.Message.NVector3
+2023-02-17 11:04:04,046 [ 1] INFO  Unity: OnSkillCast: skill:303 caster:1 target:3 pos:(5669,2239,0) result:Success
+2023-02-17 11:04:04,713 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:04:04,713 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:04:04,995 [ 1] INFO  Unity: AnimationEventController:PlayEffect:Archer:EFX_Archer_SkillB_prefab
+2023-02-17 11:04:04,997 [ 1] INFO  Unity: PlayEffect:Character_1_Acher1_1:EFX_Archer_SkillB_prefab
+2023-02-17 11:04:05,245 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:04:05,246 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:04:05,286 [ 1] INFO  Unity: Skill[毒箭雨].UpdateCasting Finish
+2023-02-17 11:04:05,352 [ 1] INFO  Unity: OnSkillCast: skill:10023 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:04:05,353 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:04:05,894 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:05,982 [ 1] INFO  Unity: Skill[重击].UpdateSkill Finish
+2023-02-17 11:04:06,001 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:06,071 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:04:06,072 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:04:06,110 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:04:06,111 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:04:06,121 [ 1] INFO  Unity: Skill[毒箭雨].UpdateSkill Finish
+2023-02-17 11:04:06,231 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:06,232 [ 1] INFO  Unity: OnBuff: count:1
+2023-02-17 11:04:06,233 [ 1] INFO  Unity: Buff : 1:6:Add
+2023-02-17 11:04:06,236 [ 1] INFO  Unity: BuffOnAdd[1:中毒]
+2023-02-17 11:04:06,284 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:04:06,341 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:06,642 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:04:06,668 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:07,211 [ 1] INFO  Unity: OnBuff: count:1
+2023-02-17 11:04:07,212 [ 1] INFO  Unity: Buff : 1:6:Hit
+2023-02-17 11:04:07,213 [ 1] INFO  Unity: DoDamage:山丘巨人 DMG:1 CRI:False
+2023-02-17 11:04:08,124 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_SkillA_prefab
+2023-02-17 11:04:08,125 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_SkillA_prefab
+2023-02-17 11:04:08,185 [ 1] INFO  Unity: OnBuff: count:1
+2023-02-17 11:04:08,186 [ 1] INFO  Unity: Buff : 1:6:Hit
+2023-02-17 11:04:08,187 [ 1] INFO  Unity: DoDamage:山丘巨人 DMG:1 CRI:False
+2023-02-17 11:04:08,289 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:04:08,290 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:04:08,949 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:09,164 [ 1] INFO  Unity: OnBuff: count:1
+2023-02-17 11:04:09,165 [ 1] INFO  Unity: Buff : 1:6:Hit
+2023-02-17 11:04:09,166 [ 1] INFO  Unity: DoDamage:山丘巨人 DMG:1 CRI:False
+2023-02-17 11:04:09,325 [ 1] INFO  Unity: Skill[拳击挥打].UpdateSkill Finish
+2023-02-17 11:04:09,380 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:09,483 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:04:09,484 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:04:10,146 [ 1] INFO  Unity: OnSkillCast: skill:10022 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:04:10,147 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:04:10,148 [ 1] INFO  Unity: OnBuff: count:1
+2023-02-17 11:04:10,149 [ 1] INFO  Unity: Buff : 1:6:Hit
+2023-02-17 11:04:10,150 [ 1] INFO  Unity: DoDamage:山丘巨人 DMG:1 CRI:False
+2023-02-17 11:04:10,684 [ 1] INFO  Unity: Skill[大地震击].UpdateSkill Finish
+2023-02-17 11:04:10,693 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:11,125 [ 1] INFO  Unity: OnBuff: count:2
+2023-02-17 11:04:11,126 [ 1] INFO  Unity: Buff : 1:6:Hit
+2023-02-17 11:04:11,127 [ 1] INFO  Unity: DoDamage:山丘巨人 DMG:1 CRI:False
+2023-02-17 11:04:11,129 [ 1] INFO  Unity: Buff : 1:6:Remove
+2023-02-17 11:04:11,131 [ 1] INFO  Unity: BuffOnRemove[1:中毒]
+2023-02-17 11:04:11,345 [ 1] INFO  Unity: OnSkillCast: skill:10021 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:04:11,346 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:04:11,556 [ 1] INFO  Unity: AnimationEventController:PlayEffect:M1002:EFX_M1002_Atk_prefab
+2023-02-17 11:04:11,557 [ 1] INFO  Unity: PlayEffect:Character_0_山丘巨人_3:EFX_M1002_Atk_prefab
+2023-02-17 11:04:11,996 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:12,734 [ 1] INFO  Unity: OnSkillCast: skill:10023 caster:3 target:1 pos:(0,0,0) result:Success
+2023-02-17 11:04:12,736 [ 1] WARN  Unity: Parameter 'Standby' does not exist.
+UnityEngine.Animator:SetBool(String, Boolean)
+EntityController:SetStandby(Boolean) (at Assets/Scripts/GameObject/EntityController.cs:194)
+Entities.Creature:SetStandby(Boolean) (at Assets/Scripts/Entities/Creature.cs:162)
+Entities.Creature:CastSkill(Int32, Creature, NVector3) (at Assets/Scripts/Entities/Creature.cs:148)
+Assets.Scripts.Services.BattleService:OnSkillCast(Object, SkillCastResponse) (at Assets/Scripts/Services/BattleService.cs:70)
+Network.MessageDistributer`1:RaiseEvent(Object, SkillCastResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProcessMessage() (at Assets/Scripts/Network/NetClient.cs:453)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:312)
+
+2023-02-17 11:04:12,737 [ 1] INFO  Unity: OnSkillHit:count:1
+2023-02-17 11:04:12,795 [ 1] INFO  Unity: Character_1_Acher1_1 OnDestroy :ID:1 POS:(6038, 2944, 32) DIR:(-44, -89, -9) SPD:0 
+2023-02-17 11:04:12,796 [ 1] INFO  Unity: Character_0_恶鬼_2 OnDestroy :ID:2 POS:(5887, 1573, 7) DIR:(9, 100, 0) SPD:0 
+2023-02-17 11:04:12,797 [ 1] INFO  Unity: Character_0_山丘巨人_3 OnDestroy :ID:3 POS:(6021, 2918, 28) DIR:(54, 83, 13) SPD:0 
+2023-02-17 11:04:12,797 [ 1] INFO  Unity: Character_0_小恶魔_4 OnDestroy :ID:4 POS:(4775, 2865, 14) DIR:(-30, 95, 0) SPD:0 
+2023-02-17 11:04:12,798 [ 1] INFO  Unity: Character_0_死神_5 OnDestroy :ID:5 POS:(5683, 4173, 0) DIR:(28, -96, 0) SPD:0 
+2023-02-17 11:04:12,800 [ 1] INFO  Unity: OnDestroy NetworkManager.
+2023-02-17 11:04:12,802 [ 1] WARN  Unity: CloseConnection(), errorCode: 1007
 UnityEngine.Debug:LogWarning(Object)
-Network.NetClient:CloseConnection(Int32) (at D:/MyProgram/UnityProjectGit/mmorpgv10.3/mmorpg/Src/Client/Assets/Scripts/Network/NetClient.cs:214)
-Network.NetClient:OnDestroy() (at D:/MyProgram/UnityProjectGit/mmorpgv10.3/mmorpg/Src/Client/Assets/Scripts/Network/NetClient.cs:80)
+Network.NetClient:CloseConnection(Int32) (at Assets/Scripts/Network/NetClient.cs:214)
+Network.NetClient:OnDestroy() (at Assets/Scripts/Network/NetClient.cs:80)
 
